@@ -1,0 +1,281 @@
+{
+  "grandCollectionProducts": [
+    {
+      "id": "grand-001",
+      "name": "Majestic Cathedral Geode - Grand #01",
+      "category": "Cathedral Geodes",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-43.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-44.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-45.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-46.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-47.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-49.webp"
+      ],
+      "type": "amethyst",
+      "quality": "museum",
+      "size": "extra-large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "85 x 50 x 42 cm",
+      "weight": "32 kg",
+      "rotation": 0,
+      "description": "An extraordinary cathedral geode featuring deep purple amethyst crystals with exceptional clarity and natural cave-like formation. This museum-quality specimen showcases the finest characteristics of Uruguayan amethyst, making it an ideal centerpiece for luxury interiors or exhibition spaces.",
+      "characteristics": [
+        "Museum-quality cathedral formation with natural cave structure",
+        "Deep purple crystal points with exceptional transparency",
+        "Multiple viewing angles reveal stunning interior crystal clusters",
+        "Premium specimen suitable for statement display",
+        "Sourced from renowned Artigas mines",
+        "Approximate display weight: 32kg"
+      ]
+    },
+    {
+      "id": "grand-002",
+      "name": "Royal Purple Statement Geode - Grand #02",
+      "category": "Statement Pieces",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-50.webp",
+        "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-51.webp",
+        "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-52.webp"
+      ],
+      "type": "amethyst",
+      "quality": "premium",
+      "size": "large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "65 x 38 x 35 cm",
+      "weight": "18 kg",
+      "rotation": 0,
+      "description": "A stunning geode with vibrant royal purple amethyst crystals that catch and reflect light beautifully. The impressive size and color saturation make this piece perfect for creating a focal point in sophisticated spaces.",
+      "characteristics": [
+        "Vibrant royal purple coloration",
+        "Premium quality crystal formation",
+        "Excellent light reflection properties",
+        "Ideal for luxury residential or commercial display",
+        "Handpicked from Artigas region",
+        "Approximately 18kg"
+      ]
+    },
+    {
+      "id": "grand-003",
+      "name": "Twilight Cathedral Formation - Grand #03",
+      "category": "Cathedral Geodes",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-53.webp",
+        "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-54.webp",
+        "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-55.webp",
+        "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-56.webp"
+      ],
+      "type": "amethyst",
+      "quality": "premium",
+      "size": "large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "72 x 45 x 40 cm",
+      "weight": "24 kg",
+      "rotation": 0,
+      "description": "A magnificent cathedral-style geode with rich purple tones reminiscent of twilight skies. The natural architectural formation creates dramatic interior displays with multiple crystal points reaching upward.",
+      "characteristics": [
+        "Cathedral-style natural architecture",
+        "Rich twilight purple color gradients",
+        "Multiple crystal point formations",
+        "Premium display quality",
+        "Sourced from Uruguay's finest mines",
+        "Estimated weight: 24kg"
+      ]
+    },
+    {
+      "id": "grand-004",
+      "name": "Deep Violet Exhibition Geode - Grand #04",
+      "category": "Museum Specimens",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-57.webp",
+        "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-58.webp",
+        "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-59.webp",
+        "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-60.webp"
+      ],
+      "type": "amethyst",
+      "quality": "museum",
+      "size": "extra-large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "78 x 52 x 44 cm",
+      "weight": "28 kg",
+      "rotation": 0,
+      "description": "An exceptional museum-grade geode featuring deep violet amethyst crystals of remarkable clarity. The impressive size and exhibition-quality formation make this piece worthy of the finest collections and gallery displays.",
+      "characteristics": [
+        "Museum-grade exhibition quality",
+        "Deep violet crystals with superior clarity",
+        "Exceptional natural formation",
+        "Gallery and collection worthy",
+        "Premium Uruguayan provenance",
+        "Display weight approximately 28kg"
+      ]
+    },
+    {
+      "id": "grand-005",
+      "name": "Amethyst Dream Geode - Grand #05",
+      "category": "Premium Formations",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-5/nueva-carpeta/adobe-express-file-61.webp",
+        "/images/products/grandes/nueva-carpeta-5/nueva-carpeta/adobe-express-file-62.webp"
+      ],
+      "type": "amethyst",
+      "quality": "premium",
+      "size": "large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "60 x 40 x 36 cm",
+      "weight": "16 kg",
+      "rotation": 0,
+      "description": "A beautiful geode with dreamy purple amethyst crystals that create an enchanting display. Perfect for those seeking a substantial premium piece with excellent color and formation.",
+      "characteristics": [
+        "Dreamy purple crystal coloration",
+        "Premium formation quality",
+        "Excellent size for display versatility",
+        "High-quality Uruguayan amethyst",
+        "Handselected specimen",
+        "Approximately 16kg"
+      ]
+    },
+    {
+      "id": "grand-006",
+      "name": "Purple Majesty Cluster - Grand #06",
+      "category": "Crystal Clusters",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-6/nueva-carpeta/adobe-express-file-63.webp",
+        "/images/products/grandes/nueva-carpeta-6/nueva-carpeta/adobe-express-file-64.webp"
+      ],
+      "type": "amethyst",
+      "quality": "premium",
+      "size": "large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "58 x 42 x 38 cm",
+      "weight": "15 kg",
+      "rotation": 0,
+      "description": "A majestic crystal cluster displaying rich purple hues and excellent formation. The substantial size and premium quality make this piece ideal for sophisticated interior design.",
+      "characteristics": [
+        "Majestic crystal cluster formation",
+        "Rich purple color throughout",
+        "Premium quality amethyst",
+        "Substantial display presence",
+        "Artigas mine provenance",
+        "Weight: approximately 15kg"
+      ]
+    },
+    {
+      "id": "grand-007",
+      "name": "Lavender Elegance Geode - Grand #07",
+      "category": "Elegant Formations",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-7/nueva-carpeta/adobe-express-file-65.webp"
+      ],
+      "type": "amethyst",
+      "quality": "premium",
+      "size": "large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "55 x 38 x 34 cm",
+      "weight": "14 kg",
+      "rotation": 0,
+      "description": "An elegant geode featuring soft lavender to deeper purple gradients. The refined coloration and quality formation exemplify the sophisticated beauty of Uruguayan amethyst.",
+      "characteristics": [
+        "Elegant lavender to purple color gradient",
+        "Refined crystal formation",
+        "Premium quality specimen",
+        "Sophisticated display appeal",
+        "Uruguayan heritage piece",
+        "Approximately 14kg"
+      ]
+    },
+    {
+      "id": "grand-008",
+      "name": "Violet Crown Formation - Grand #08",
+      "category": "Signature Pieces",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-8/nueva-carpeta/adobe-express-file-66.webp"
+      ],
+      "type": "amethyst",
+      "quality": "premium",
+      "size": "large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "62 x 40 x 37 cm",
+      "weight": "17 kg",
+      "rotation": 0,
+      "description": "A signature piece featuring violet amethyst crystals arranged in a crown-like formation. This distinctive specimen combines size, color, and unique structure for an impressive display.",
+      "characteristics": [
+        "Distinctive crown-like crystal arrangement",
+        "Vibrant violet coloration",
+        "Signature piece quality",
+        "Impressive display structure",
+        "Premium Artigas specimen",
+        "Estimated 17kg"
+      ]
+    },
+    {
+      "id": "grand-009",
+      "name": "The Grand Amethyst Cathedral - Grand #09",
+      "category": "Cathedral Geodes",
+      "section": "grandes",
+      "collection": "grand",
+      "images": [
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t194936-553.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t194956-076.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195006-667.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195017-429.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195451-129.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195514-633.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195523-882.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195652-585.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195713-121.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195722-383.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195737-124.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195822-146.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195831-323.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195841-587.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195850-063.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195901-807.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195939-788.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195950-893.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200001-696.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200012-505.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200024-524.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200335-516.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200346-943.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200436-153.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200502-013.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200544-941.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200553-994.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200621-390.webp"
+      ],
+      "type": "amethyst",
+      "quality": "museum",
+      "size": "extra-large",
+      "origin": "Artigas, Uruguay",
+      "dimensions": "95 x 58 x 48 cm",
+      "weight": "38 kg",
+      "rotation": 0,
+      "description": "The crown jewel of our Grand Collection - an extraordinary cathedral geode of exceptional size and quality. With 28 detailed angles captured in photography, this museum-grade specimen showcases the absolute finest Uruguayan amethyst available. Perfect for luxury hotels, galleries, or prestigious private collections.",
+      "characteristics": [
+        "Exceptional museum-grade cathedral formation",
+        "Monumental size - nearly one meter in height",
+        "Deep purple crystals with outstanding clarity",
+        "28 professional photography angles available",
+        "Suitable for institutional or high-end residential display",
+        "Significant display weight: approximately 38kg",
+        "The premier piece of the Grand Collection"
+      ]
+    }
+  ]
+}

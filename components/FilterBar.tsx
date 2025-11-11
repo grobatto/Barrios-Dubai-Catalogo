@@ -46,13 +46,13 @@ export default function FilterBar({
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 onClick={() => onSectionChange(section)}
-                className={`px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 capitalize ${
+                className={`px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 ${
                   selectedSection === section
-                    ? 'bg-accent-primary text-white shadow-md'
+                    ? section === 'grandes' ? 'bg-accent-gold text-white shadow-md' : 'bg-accent-primary text-white shadow-md'
                     : 'bg-gray-100 text-text-secondary hover:bg-gray-200'
                 }`}
               >
-                {section}
+                {section === 'grandes' ? 'Grand Collection' : section.charAt(0).toUpperCase() + section.slice(1)}
               </motion.button>
             ))}
           </div>

@@ -75,6 +75,13 @@ export default function ProductLightbox({
           </button>
 
           <div className="mt-12">
+            {/* Grand Collection Badge */}
+            {product.collection === 'grand' && (
+              <div className="inline-block bg-accent-gold text-white text-xs font-semibold px-4 py-2 rounded-full mb-4">
+                GRAND COLLECTION
+              </div>
+            )}
+
             <h2 className="font-serif text-3xl text-text-primary mb-4">
               {product.name}
             </h2>
@@ -94,12 +101,14 @@ export default function ProductLightbox({
                 <p className="text-lg">{product.category}</p>
               </div>
 
-              <div>
-                <p className="text-xs uppercase tracking-wider text-text-light mb-1">
-                  Origin
-                </p>
-                <p className="text-lg">{product.origin}</p>
-              </div>
+              {product.quality && (
+                <div>
+                  <p className="text-xs uppercase tracking-wider text-text-light mb-1">
+                    Quality
+                  </p>
+                  <p className="text-lg capitalize">{product.quality}</p>
+                </div>
+              )}
 
               {product.dimensions && (
                 <div>
@@ -109,6 +118,31 @@ export default function ProductLightbox({
                   <p className="text-lg">{product.dimensions}</p>
                 </div>
               )}
+
+              {product.weight && (
+                <div>
+                  <p className="text-xs uppercase tracking-wider text-text-light mb-1">
+                    Weight
+                  </p>
+                  <p className="text-lg">{product.weight}</p>
+                </div>
+              )}
+
+              {product.size && (
+                <div>
+                  <p className="text-xs uppercase tracking-wider text-text-light mb-1">
+                    Size
+                  </p>
+                  <p className="text-lg capitalize">{product.size.replace('-', ' ')}</p>
+                </div>
+              )}
+
+              <div>
+                <p className="text-xs uppercase tracking-wider text-text-light mb-1">
+                  Origin
+                </p>
+                <p className="text-lg">{product.origin}</p>
+              </div>
             </div>
 
             {product.description && (
@@ -142,7 +176,9 @@ export default function ProductLightbox({
               href={whatsappUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="block w-full bg-accent-primary text-white text-center py-4 px-6 rounded-lg hover:bg-opacity-90 transition-all duration-300 font-medium"
+              className={`block w-full text-white text-center py-4 px-6 rounded-lg hover:bg-opacity-90 transition-all duration-300 font-medium ${
+                product.collection === 'grand' ? 'bg-accent-gold' : 'bg-accent-primary'
+              }`}
             >
               <span className="flex items-center justify-center gap-2">
                 <svg
