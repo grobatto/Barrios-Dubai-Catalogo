@@ -64,15 +64,15 @@ export default function FilterBar({
             <p className="text-xs uppercase tracking-wider text-text-light mb-3">
               Category
             </p>
-            <div className="flex flex-wrap gap-2">
+            <div className="flex flex-wrap gap-3">
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 onClick={() => onCategoryChange('all')}
-                className={`px-4 py-1.5 rounded-full text-xs font-medium transition-all duration-300 ${
+                className={`px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 ${
                   selectedCategory === 'all'
-                    ? 'bg-accent-earth text-white'
-                    : 'bg-gray-50 text-text-secondary hover:bg-gray-100'
+                    ? 'bg-accent-primary text-white shadow-md'
+                    : 'bg-gray-100 text-text-secondary hover:bg-gray-200'
                 }`}
               >
                 All
@@ -83,10 +83,10 @@ export default function FilterBar({
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   onClick={() => onCategoryChange(category)}
-                  className={`px-4 py-1.5 rounded-full text-xs font-medium transition-all duration-300 ${
+                  className={`px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 ${
                     selectedCategory === category
-                      ? 'bg-accent-earth text-white'
-                      : 'bg-gray-50 text-text-secondary hover:bg-gray-100'
+                      ? 'bg-accent-primary text-white shadow-md'
+                      : 'bg-gray-100 text-text-secondary hover:bg-gray-200'
                   }`}
                 >
                   {category}

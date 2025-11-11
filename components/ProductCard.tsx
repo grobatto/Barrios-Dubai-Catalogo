@@ -16,11 +16,11 @@ export default function ProductCard({ product, onClick }: ProductCardProps) {
 
   return (
     <motion.div
-      whileHover={{ scale: 1.02 }}
-      transition={{ duration: 0.3 }}
+      whileHover={{ scale: 1.03, y: -4 }}
+      transition={{ duration: 0.3, ease: 'easeOut' }}
       onClick={onClick}
-      className={`bg-white rounded-xl shadow-sm hover:shadow-xl overflow-hidden cursor-pointer group relative ${
-        isGrandCollection ? 'ring-2 ring-accent-gold ring-opacity-30' : ''
+      className={`bg-white rounded-xl shadow-sm hover:shadow-2xl overflow-hidden cursor-pointer group relative ${
+        isGrandCollection ? 'ring-2 ring-accent-gold ring-opacity-30' : 'hover:ring-2 hover:ring-accent-primary hover:ring-opacity-20'
       }`}
     >
       {/* Grand Collection Badge */}
@@ -41,7 +41,7 @@ export default function ProductCard({ product, onClick }: ProductCardProps) {
         />
 
         {/* Color Overlay on Hover (Purple for standard, Gold for grand) */}
-        <div className={`absolute inset-0 ${overlayColor} opacity-0 group-hover:opacity-5 transition-opacity duration-300`} />
+        <div className={`absolute inset-0 ${overlayColor} opacity-0 group-hover:opacity-10 transition-opacity duration-300`} />
       </div>
 
       {/* Product Info */}

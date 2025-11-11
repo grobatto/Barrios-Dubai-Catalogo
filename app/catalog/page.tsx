@@ -56,9 +56,9 @@ export default function CatalogPage() {
     <>
       <Navigation />
 
-      <main className="pt-20">
+      <main className="pt-20 bg-gradient-to-b from-purple-50 via-white to-white">
         {/* Page Header */}
-        <section className="section-spacing bg-white text-center">
+        <section className="section-spacing text-center">
           <div className="container-custom max-w-4xl mx-auto">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
