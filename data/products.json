@@ -1,0 +1,2030 @@
+{
+  "products": [
+    {
+      "id": "uruguay-001",
+      "name": "Freeform A 1",
+      "category": "Freeform A",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/freeform-a/img-4509.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful freeform a from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-002",
+      "name": "Freeform A 2",
+      "category": "Freeform A",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/freeform-a/img-4510.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful freeform a from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-003",
+      "name": "Freeform B 1",
+      "category": "Freeform B",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/freeform-b/img-4508.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful freeform b from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-004",
+      "name": "Freeform Brillo 2 1",
+      "category": "Freeform Brillo 2",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/freeform-brillo-2/img-4505.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful freeform brillo 2 from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-005",
+      "name": "Freeform Extra 1",
+      "category": "Freeform Extra",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/freeform-extra/img-4512.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful freeform extra from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-006",
+      "name": "Freeforms minis 1",
+      "category": "Freeforms minis",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/freeforms-minis/img-4635.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful freeforms minis from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-007",
+      "name": "Torres 1",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/0b26cef6-9b4b-4a2d-9efe-6c592acced5f.webp",
+        "/images/products/uruguay/torres/16285c03-b15a-4db8-800f-bee71c9c48f7.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-008",
+      "name": "Torres 2",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/1e166336-56b7-4b0d-9aad-5aa0e759c1c8.webp",
+        "/images/products/uruguay/torres/228e410b-68f3-4e10-880c-430420061811.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-009",
+      "name": "Torres 3",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/23ac31e1-78df-47c4-9693-8cd367441093.webp",
+        "/images/products/uruguay/torres/27e65181-4c0c-4a12-932b-2a86355e71f8.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-010",
+      "name": "Torres 4",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/48a7200d-bf2b-4842-90f4-51812764a6f2.webp",
+        "/images/products/uruguay/torres/48c5cf69-3758-4793-9541-566b0faa6ca3.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-011",
+      "name": "Torres 5",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/491e67b2-c3e3-44a7-a681-3c41f1dc622a.webp",
+        "/images/products/uruguay/torres/4d06f0bf-4b96-4f02-8b41-56918e74bd18.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-012",
+      "name": "Torres 6",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/4e1eb4da-e78e-400b-9178-bf4fb43c664a.webp",
+        "/images/products/uruguay/torres/50464601-921e-4183-b670-0081c15e3d61.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-013",
+      "name": "Torres 7",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/5244dc8e-4451-45a9-a09e-b5a996901a11.webp",
+        "/images/products/uruguay/torres/6da4b832-9c8a-4299-a440-2e45e3b03b61.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-014",
+      "name": "Torres 8",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/7283e5ad-d208-43f1-96eb-ab21b3b77ae2.webp",
+        "/images/products/uruguay/torres/7bb7b7ab-c38f-437e-97af-2bb4bd807864.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-015",
+      "name": "Torres 9",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/811c4f0e-344c-486c-99ab-252007fb1cfe.webp",
+        "/images/products/uruguay/torres/99c53fc1-a10c-4c0d-8a1f-fa38fd1ae097.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-016",
+      "name": "Torres 10",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/a8bac54c-0041-4c01-914f-0dc47fcb27e8.webp",
+        "/images/products/uruguay/torres/a8f17a31-8c39-4b21-ba6f-9f0f1984cb53.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-017",
+      "name": "Torres 11",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/c60733e0-08ac-45ee-af3f-2c9384846325.webp",
+        "/images/products/uruguay/torres/c907eebd-6c36-4ece-889b-6219bd3811f5.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-018",
+      "name": "Torres 12",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/db49b2bd-158e-469e-8ee9-f08ff4b508bf.webp",
+        "/images/products/uruguay/torres/e1368436-3eeb-4f18-83f9-94b1f8f0908f.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-019",
+      "name": "Torres 13",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/e84b934b-2850-4093-b3c7-ca8be42f6054.webp",
+        "/images/products/uruguay/torres/ffd09336-9ce0-45f1-a7c6-f2f6882abe00.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-020",
+      "name": "Torres 14",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/img-4483.webp",
+        "/images/products/uruguay/torres/img-4484.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-021",
+      "name": "Torres 15",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/img-4487.webp",
+        "/images/products/uruguay/torres/img-5125.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-022",
+      "name": "Torres 16",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/img-5126.webp",
+        "/images/products/uruguay/torres/img-5127.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-023",
+      "name": "Torres 17",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/img-5128.webp",
+        "/images/products/uruguay/torres/img-7839.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-024",
+      "name": "Torres 18",
+      "category": "Torres",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/torres/img-7840.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful torres from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-025",
+      "name": "bases de metal 1",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190537-521.webp",
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190550-581.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-026",
+      "name": "bases de metal 2",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190603-342.webp",
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190620-157.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-027",
+      "name": "bases de metal 3",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190634-887.webp",
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190725-351.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-028",
+      "name": "bases de metal 4",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190743-832.webp",
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190757-041.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-029",
+      "name": "bases de metal 5",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190807-947.webp",
+        "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190820-388.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-030",
+      "name": "bases de metal 6",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/img-2619.webp",
+        "/images/products/uruguay/bases-de-metal/img-2623.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-031",
+      "name": "bases de metal 7",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112048.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112254.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-032",
+      "name": "bases de metal 8",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112334.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112412.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-033",
+      "name": "bases de metal 9",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112501.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112739.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-034",
+      "name": "bases de metal 10",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112810.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112859.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-035",
+      "name": "bases de metal 11",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-112955.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113049.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-036",
+      "name": "bases de metal 12",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113142.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113314.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-037",
+      "name": "bases de metal 13",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113409.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113449.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-038",
+      "name": "bases de metal 14",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113537.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113605.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-039",
+      "name": "bases de metal 15",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113639.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113719.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-040",
+      "name": "bases de metal 16",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-113920.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-114013.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-041",
+      "name": "bases de metal 17",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-114117.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-114718.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-042",
+      "name": "bases de metal 18",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-114811.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-114901.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-043",
+      "name": "bases de metal 19",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-115258.webp",
+        "/images/products/uruguay/bases-de-metal/photoroom-20250624-115326.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-044",
+      "name": "bases de metal 20",
+      "category": "bases de metal",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bases-de-metal/upscalemedia-transformed-1.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bases de metal from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-045",
+      "name": "bultos 1",
+      "category": "bultos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bultos/feria-2.webp",
+        "/images/products/uruguay/bultos/img-2634.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bultos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-046",
+      "name": "bultos 2",
+      "category": "bultos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bultos/img-2635.webp",
+        "/images/products/uruguay/bultos/img-2636.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bultos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-047",
+      "name": "bultos 3",
+      "category": "bultos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bultos/img-2637.webp",
+        "/images/products/uruguay/bultos/img-2638.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bultos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-048",
+      "name": "bultos 4",
+      "category": "bultos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bultos/img-2639.webp",
+        "/images/products/uruguay/bultos/img-2640.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bultos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-049",
+      "name": "bultos 5",
+      "category": "bultos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bultos/img-2641.webp",
+        "/images/products/uruguay/bultos/img-2642.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bultos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-050",
+      "name": "bultos 6",
+      "category": "bultos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/bultos/img-2643.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful bultos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-051",
+      "name": "chapas 1",
+      "category": "chapas",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/chapas/fullsizerender-2.webp",
+        "/images/products/uruguay/chapas/img-8116.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful chapas from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-052",
+      "name": "chapas 2",
+      "category": "chapas",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/chapas/img-8118.webp",
+        "/images/products/uruguay/chapas/img-8119.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful chapas from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-053",
+      "name": "chapas 3",
+      "category": "chapas",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/chapas/img-8120.webp",
+        "/images/products/uruguay/chapas/img-8121.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful chapas from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-054",
+      "name": "chapas 4",
+      "category": "chapas",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/chapas/img-8122.webp",
+        "/images/products/uruguay/chapas/img-8123.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful chapas from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-055",
+      "name": "chapas 5",
+      "category": "chapas",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/chapas/img-8124.webp",
+        "/images/products/uruguay/chapas/img-8125.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful chapas from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-056",
+      "name": "chapas 6",
+      "category": "chapas",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/chapas/img-8126.webp",
+        "/images/products/uruguay/chapas/img-8127.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful chapas from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-057",
+      "name": "corazones 1",
+      "category": "corazones",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-01-27-pm.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful corazones from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-058",
+      "name": "corazones 2",
+      "category": "corazones",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-photoroom-1.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful corazones from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-059",
+      "name": "corazones 3",
+      "category": "corazones",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-photoroom.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful corazones from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-060",
+      "name": "corazones 4",
+      "category": "corazones",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-07-pm.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful corazones from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-061",
+      "name": "corazones 5",
+      "category": "corazones",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-09-pm.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful corazones from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-062",
+      "name": "corazones 6",
+      "category": "corazones",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-13-pm.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful corazones from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-063",
+      "name": "cortados 1",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-5099.webp",
+        "/images/products/uruguay/cortados/img-5198.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-064",
+      "name": "cortados 2",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-5200.webp",
+        "/images/products/uruguay/cortados/img-5978.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-065",
+      "name": "cortados 3",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-5982.webp",
+        "/images/products/uruguay/cortados/img-5983.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-066",
+      "name": "cortados 4",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-5984.webp",
+        "/images/products/uruguay/cortados/img-5987.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-067",
+      "name": "cortados 5",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-5988.webp",
+        "/images/products/uruguay/cortados/img-5991.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-068",
+      "name": "cortados 6",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-5992.webp",
+        "/images/products/uruguay/cortados/img-5995.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-069",
+      "name": "cortados 7",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-5996.webp",
+        "/images/products/uruguay/cortados/img-5997.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-070",
+      "name": "cortados 8",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-5999.webp",
+        "/images/products/uruguay/cortados/img-7993.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-071",
+      "name": "cortados 9",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/img-8009.webp",
+        "/images/products/uruguay/cortados/img-8365.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-072",
+      "name": "cortados 10",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-03-26-am.webp",
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-14-47-am.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-073",
+      "name": "cortados 11",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-22-00-am.webp",
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-33-54-am.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-074",
+      "name": "cortados 12",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-40-45-am.webp",
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-56-30-am.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-075",
+      "name": "cortados 13",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-59-23-am.webp",
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-25-15-am.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-076",
+      "name": "cortados 14",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-32-04-am.webp",
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-47-53-am.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-077",
+      "name": "cortados 15",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-52-39-am.webp",
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-9-18-03-am.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-078",
+      "name": "cortados 16",
+      "category": "cortados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-9-26-12-am.webp",
+        "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-9-58-26-am.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful cortados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-079",
+      "name": "home deco - special pieces 1",
+      "category": "home deco - special pieces",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/home-deco-special-pieces/luminaria-de-luna-en-chapa-de-a-gata-deco.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful home deco - special pieces from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-080",
+      "name": "home deco - special pieces 2",
+      "category": "home deco - special pieces",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-123119-1.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful home deco - special pieces from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-081",
+      "name": "home deco - special pieces 3",
+      "category": "home deco - special pieces",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-123119.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful home deco - special pieces from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-082",
+      "name": "home deco - special pieces 4",
+      "category": "home deco - special pieces",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-131353.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful home deco - special pieces from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-083",
+      "name": "home deco - special pieces 5",
+      "category": "home deco - special pieces",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-135841.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful home deco - special pieces from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-084",
+      "name": "home deco - special pieces 6",
+      "category": "home deco - special pieces",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/home-deco-special-pieces/photoroom-20250625-093733.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful home deco - special pieces from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-085",
+      "name": "huevos 1",
+      "category": "huevos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/huevos/img-2651.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful huevos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-086",
+      "name": "huevos 2",
+      "category": "huevos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/huevos/img-2652.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful huevos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-087",
+      "name": "huevos 3",
+      "category": "huevos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/huevos/img-2653.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful huevos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-088",
+      "name": "huevos 4",
+      "category": "huevos",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/huevos/your-paragraph-text-6.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful huevos from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-089",
+      "name": "piramides 1",
+      "category": "piramides",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/piramides/copia-de-img-5129.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful piramides from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-090",
+      "name": "piramides 2",
+      "category": "piramides",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/piramides/img-2657.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful piramides from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-091",
+      "name": "piramides 3",
+      "category": "piramides",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/piramides/img-2658.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful piramides from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-092",
+      "name": "piramides 4",
+      "category": "piramides",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/piramides/img-2659.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful piramides from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-093",
+      "name": "piramides 5",
+      "category": "piramides",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/piramides/img-6390.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful piramides from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-094",
+      "name": "piramides 6",
+      "category": "piramides",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/piramides/img-6392.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful piramides from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-095",
+      "name": "piramides 7",
+      "category": "piramides",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/piramides/pyramids-2.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful piramides from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-096",
+      "name": "preformados 1",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/img-5113.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-097",
+      "name": "preformados 2",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/img-5114.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-098",
+      "name": "preformados 3",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/img-5115.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-099",
+      "name": "preformados 4",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/img-5117.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-100",
+      "name": "preformados 5",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/img-5118.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-101",
+      "name": "preformados 6",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/img-5147.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-102",
+      "name": "preformados 7",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/img-5172.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-103",
+      "name": "preformados 8",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/img-5190.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "uruguay-104",
+      "name": "preformados 9",
+      "category": "preformados",
+      "section": "uruguay",
+      "images": [
+        "/images/products/uruguay/preformados/photoroom-20250717-142555.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Beautiful preformados from Uruguay",
+      "characteristics": [
+        "Natural formation",
+        "Premium quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-105",
+      "name": "Grande Piece 105",
+      "category": "Nueva carpeta",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-43.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-44.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-45.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-46.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-47.webp",
+        "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-49.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-106",
+      "name": "Grande Piece 106",
+      "category": "Nueva carpeta (2)",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-50.webp",
+        "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-51.webp",
+        "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-52.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-107",
+      "name": "Grande Piece 107",
+      "category": "Nueva carpeta (3)",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-53.webp",
+        "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-54.webp",
+        "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-55.webp",
+        "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-56.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-108",
+      "name": "Grande Piece 108",
+      "category": "Nueva carpeta (4)",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-57.webp",
+        "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-58.webp",
+        "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-59.webp",
+        "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-60.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-109",
+      "name": "Grande Piece 109",
+      "category": "Nueva carpeta (5)",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-5/nueva-carpeta/adobe-express-file-61.webp",
+        "/images/products/grandes/nueva-carpeta-5/nueva-carpeta/adobe-express-file-62.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-110",
+      "name": "Grande Piece 110",
+      "category": "Nueva carpeta (6)",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-6/nueva-carpeta/adobe-express-file-63.webp",
+        "/images/products/grandes/nueva-carpeta-6/nueva-carpeta/adobe-express-file-64.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-111",
+      "name": "Grande Piece 111",
+      "category": "Nueva carpeta (7)",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-7/nueva-carpeta/adobe-express-file-65.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-112",
+      "name": "Grande Piece 112",
+      "category": "Nueva carpeta (8)",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/nueva-carpeta-8/nueva-carpeta/adobe-express-file-66.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    },
+    {
+      "id": "grandes-113",
+      "name": "Grande Piece 113",
+      "category": "WhatsApp Unknown 2025-11-05 at 11.15.04",
+      "section": "grandes",
+      "images": [
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t194936-553.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t194956-076.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195006-667.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195017-429.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195451-129.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195514-633.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195523-882.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195652-585.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195713-121.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195722-383.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195737-124.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195822-146.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195831-323.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195841-587.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195850-063.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195901-807.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195939-788.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195950-893.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200001-696.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200012-505.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200024-524.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200335-516.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200346-943.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200436-153.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200502-013.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200544-941.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200553-994.webp",
+        "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200621-390.webp"
+      ],
+      "type": "amethyst",
+      "origin": "Artigas, Uruguay",
+      "description": "Premium Uruguayan gemstone",
+      "characteristics": [
+        "Natural formation",
+        "Museum quality",
+        "Handpicked"
+      ]
+    }
+  ]
+}
