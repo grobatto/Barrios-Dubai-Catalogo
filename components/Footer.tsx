@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function Footer() {
   const whatsappNumber = '+971XXXXXXXXX';
-  const instagramHandle = '@barrioamethysts';
+  const instagramHandle = '@barriosamethysts';
 
   return (
     <footer className="bg-text-primary text-white py-16">
@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand */}
           <div>
-            <h3 className="font-serif text-2xl mb-4">BARRIO AMETHYSTS</h3>
+            <h3 className="font-serif text-2xl mb-4">BARRIOS AMETHYSTS</h3>
             <p className="text-gray-400 text-sm leading-relaxed">
               Premium Uruguayan gemstones from the mines of Artigas. Now available in Dubai.
             </p>
@@ -103,7 +103,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t border-gray-800 text-center">
           <p className="text-gray-500 text-sm">
-            &copy; {new Date().getFullYear()} Barrio Amethysts. All rights reserved.
+            &copy; {new Date().getFullYear()} Barrios Amethysts. All rights reserved.
           </p>
           <p className="text-gray-600 text-xs mt-2">
             Handpicked gemstones from Artigas, Uruguay

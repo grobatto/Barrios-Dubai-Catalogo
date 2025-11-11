@@ -38,7 +38,7 @@ export default function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex-shrink-0">
             <h1 className="font-serif text-2xl md:text-3xl tracking-tight text-text-primary hover:text-accent-primary transition-colors duration-300">
-              BARRIO AMETHYSTS
+              BARRIOS AMETHYSTS
             </h1>
           </Link>
 

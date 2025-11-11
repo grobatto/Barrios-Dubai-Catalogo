@@ -14,8 +14,8 @@ export default function ContactPage() {
   const [isSubmitted, setIsSubmitted] = useState(false);
 
   const whatsappNumber = '+971XXXXXXXXX';
-  const instagramHandle = '@barrioamethysts';
-  const email = 'info@barrioamethysts.com';
+  const instagramHandle = '@barriosamethysts';
+  const email = 'info@barriosamethysts.com';
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();

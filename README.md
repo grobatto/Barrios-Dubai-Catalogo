@@ -1,4 +1,4 @@
-# Barrio Amethysts - Premium Gemstone Catalog
+# Barrios Amethysts - Premium Gemstone Catalog
 
 A luxury catalog website showcasing premium amethysts and agates from Artigas, Uruguay, now available in Dubai.
 
@@ -169,9 +169,9 @@ Private - All rights reserved
 
 For inquiries about this project:
 - WhatsApp: +971XXXXXXXXX
-- Instagram: @barrioamethysts
-- Email: info@barrioamethysts.com
+- Instagram: @barriosamethysts
+- Email: info@barriosamethysts.com
 
 ---
 
-Built with ❤️ for Barrio Amethysts
+Built with ❤️ for Barrios Amethysts

@@ -18,7 +18,7 @@ export default function Hero() {
           transition={{ duration: 1, ease: 'easeOut', delay: 0.2 }}
           className="font-serif text-6xl md:text-8xl lg:text-9xl font-light tracking-tight mb-8 text-text-primary"
         >
-          BARRIO AMETHYSTS
+          BARRIOS AMETHYSTS
         </motion.h1>
 
         <motion.p
