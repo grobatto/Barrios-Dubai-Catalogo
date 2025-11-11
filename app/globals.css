@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Inter:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -14,27 +14,17 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    @apply font-serif;
+    @apply font-sans font-normal;
   }
 }
 
 @layer components {
   .container-custom {
-    @apply max-w-[1400px] mx-auto px-8 md:px-12 lg:px-16;
+    @apply max-w-[1600px] mx-auto px-8 md:px-16 lg:px-24;
   }
 
   .section-spacing {
-    @apply py-20 md:py-30 lg:py-35;
-  }
-
-  .btn-primary {
-    @apply px-8 py-4 bg-accent-primary text-white font-sans font-medium tracking-wide
-           hover:bg-opacity-90 transition-all duration-300 rounded-sm;
-  }
-
-  .btn-secondary {
-    @apply px-8 py-4 border-2 border-accent-primary text-accent-primary font-sans font-medium
-           tracking-wide hover:bg-accent-primary hover:text-white transition-all duration-300 rounded-sm;
+    @apply py-16 md:py-24 lg:py-32;
   }
 }
 

@@ -1,11 +1,10 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { motion } from 'framer-motion';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 import FilterBar from '@/components/FilterBar';
-import MasonryGrid from '@/components/MasonryGrid';
+import ProductGrid from '@/components/ProductGrid';
 import ProductLightbox from '@/components/ProductLightbox';
 import productsData from '@/data/products.json';
 import { Product } from '@/types/product';
@@ -34,6 +33,12 @@ export default function CatalogPage() {
   // Filter products
   const filteredProducts = useMemo(() => {
     return products.filter((product) => {
+      // Hide products uruguay-001 to uruguay-024
+      const productNum = parseInt(product.id.split('-')[1]);
+      if (product.id.startsWith('uruguay-') && productNum >= 1 && productNum <= 24) {
+        return false;
+      }
+
       const sectionMatch =
         selectedSection === 'all' || product.section === selectedSection;
       const categoryMatch =
@@ -56,28 +61,7 @@ export default function CatalogPage() {
     <>
       <Navigation />
 
-      <main className="pt-20 bg-gradient-to-b from-purple-50 via-white to-white">
-        {/* Page Header */}
-        <section className="section-spacing text-center">
-          <div className="container-custom max-w-4xl mx-auto">
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8 }}
-            >
-              <h1 className="font-serif text-5xl md:text-7xl text-text-primary mb-6">
-                Our Collection
-              </h1>
-              <p className="text-lg md:text-xl text-text-secondary">
-                Each piece tells a story from the heart of Uruguay
-              </p>
-              <p className="text-sm text-text-light mt-4">
-                {filteredProducts.length} {filteredProducts.length === 1 ? 'piece' : 'pieces'} available
-              </p>
-            </motion.div>
-          </div>
-        </section>
-
+      <main className="pt-16 bg-white">
         {/* Filters */}
         <FilterBar
           sections={sections}
@@ -89,7 +73,7 @@ export default function CatalogPage() {
         />
 
         {/* Products Grid */}
-        <MasonryGrid
+        <ProductGrid
           products={filteredProducts}
           onProductClick={handleProductClick}
         />

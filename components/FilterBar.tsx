@@ -1,7 +1,5 @@
 'use client';
 
-import { motion } from 'framer-motion';
-
 interface FilterBarProps {
   sections: string[];
   categories: string[];
@@ -19,41 +17,40 @@ export default function FilterBar({
   onSectionChange,
   onCategoryChange,
 }: FilterBarProps) {
+  const getSectionLabel = (section: string) => {
+    if (section === 'grandes') return 'Grand Collection';
+    if (section === 'uruguay') return 'Uruguay';
+    return section;
+  };
+
   return (
-    <div className="sticky top-20 z-40 bg-white border-b border-gray-200 py-6">
-      <div className="container-custom">
-        {/* Section Filters */}
-        <div className="mb-4">
-          <p className="text-xs uppercase tracking-wider text-text-light mb-3">
-            Collection
-          </p>
-          <div className="flex flex-wrap gap-3">
-            <motion.button
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
+    <div className="sticky top-16 z-40 bg-white border-b border-border-light">
+      <div className="container-custom py-6">
+        {/* Collection Filters */}
+        <div className="mb-6">
+          <div className="flex flex-wrap gap-6">
+            <button
               onClick={() => onSectionChange('all')}
-              className={`px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 ${
+              className={`text-sm transition-colors ${
                 selectedSection === 'all'
-                  ? 'bg-accent-primary text-white shadow-md'
-                  : 'bg-gray-100 text-text-secondary hover:bg-gray-200'
+                  ? 'text-text-primary font-medium border-b-2 border-text-primary pb-0.5'
+                  : 'text-text-secondary hover:text-text-primary'
               }`}
             >
               All
-            </motion.button>
+            </button>
             {sections.map((section) => (
-              <motion.button
+              <button
                 key={section}
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
                 onClick={() => onSectionChange(section)}
-                className={`px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 ${
+                className={`text-sm transition-colors ${
                   selectedSection === section
-                    ? section === 'grandes' ? 'bg-accent-gold text-white shadow-md' : 'bg-accent-primary text-white shadow-md'
-                    : 'bg-gray-100 text-text-secondary hover:bg-gray-200'
+                    ? 'text-text-primary font-medium border-b-2 border-text-primary pb-0.5'
+                    : 'text-text-secondary hover:text-text-primary'
                 }`}
               >
-                {section === 'grandes' ? 'Grand Collection' : section.charAt(0).toUpperCase() + section.slice(1)}
-              </motion.button>
+                {getSectionLabel(section)}
+              </button>
             ))}
           </div>
         </div>
@@ -61,36 +58,29 @@ export default function FilterBar({
         {/* Category Filters */}
         {categories.length > 0 && (
           <div>
-            <p className="text-xs uppercase tracking-wider text-text-light mb-3">
-              Category
-            </p>
-            <div className="flex flex-wrap gap-3">
-              <motion.button
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
+            <div className="flex flex-wrap gap-4">
+              <button
                 onClick={() => onCategoryChange('all')}
-                className={`px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 ${
+                className={`text-xs transition-colors ${
                   selectedCategory === 'all'
-                    ? 'bg-accent-primary text-white shadow-md'
-                    : 'bg-gray-100 text-text-secondary hover:bg-gray-200'
+                    ? 'text-text-primary underline'
+                    : 'text-text-light hover:text-text-secondary'
                 }`}
               >
-                All
-              </motion.button>
+                All Categories
+              </button>
               {categories.map((category) => (
-                <motion.button
+                <button
                   key={category}
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
                   onClick={() => onCategoryChange(category)}
-                  className={`px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 ${
+                  className={`text-xs transition-colors ${
                     selectedCategory === category
-                      ? 'bg-accent-primary text-white shadow-md'
-                      : 'bg-gray-100 text-text-secondary hover:bg-gray-200'
+                      ? 'text-text-primary underline'
+                      : 'text-text-light hover:text-text-secondary'
                   }`}
                 >
                   {category}
-                </motion.button>
+                </button>
               ))}
             </div>
           </div>
