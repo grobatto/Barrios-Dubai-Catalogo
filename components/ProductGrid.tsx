@@ -9,28 +9,19 @@ interface ProductGridProps {
 }
 
 export default function ProductGrid({ products, onProductClick }: ProductGridProps) {
-  // Create varied layout patterns
-  const getLayoutClass = (index: number, isGrand: boolean) => {
+  // Grand Collection: 2x2, Uruguay: 1x1
+  const getLayoutClass = (isGrand: boolean) => {
     if (isGrand) return 'md:col-span-2 md:row-span-2';
-
-    const patterns = [
-      'md:col-span-1',
-      'md:col-span-1',
-      'md:col-span-2',
-      'md:col-span-1',
-      'md:col-span-1',
-      'md:col-span-1',
-    ];
-    return patterns[index % patterns.length];
+    return 'md:col-span-1';
   };
 
   return (
     <div className="container-custom py-16 md:py-24">
-      {/* Asymmetric Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12 auto-rows-auto">
+      {/* Consistent Grid */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-10 lg:gap-12 auto-rows-auto">
         {products.map((product, index) => {
           const isGrand = product.collection === 'grand';
-          const layoutClass = getLayoutClass(index, isGrand);
+          const layoutClass = getLayoutClass(isGrand);
 
           return (
             <div
@@ -39,31 +30,33 @@ export default function ProductGrid({ products, onProductClick }: ProductGridPro
               onClick={() => onProductClick(product)}
             >
               {/* Product Image */}
-              <div className="relative w-full aspect-[3/4] bg-gray-50 overflow-hidden border border-black">
+              <div className={`relative w-full ${isGrand ? 'aspect-square' : 'aspect-[3/4]'} bg-cream overflow-hidden border border-border-light hover:border-primary-200 transition-all duration-500 shadow-sm hover:shadow-luxury`}>
                 <Image
                   src={product.images[0]}
-                  alt={product.name}
+                  alt={`${product.name} - ${product.dimensions || 'Uruguayan gemstone'} - Premium amethyst from Artigas`}
                   fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  className="object-cover"
+                  sizes={isGrand ? "(max-width: 768px) 100vw, 66vw" : "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"}
+                  className="object-contain group-hover:scale-105 transition-transform duration-700 ease-out"
                   priority={index < 6}
                 />
-                {/* Product Name Overlay - Bottom Left */}
-                <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 px-3 py-2">
-                  <p className="text-xs text-white font-light">
-                    {product.name}
-                  </p>
-                </div>
+                {isGrand && (
+                  <div className="absolute top-4 right-4 bg-gold-500 text-white px-3 py-1 text-xs tracking-wider uppercase font-medium">
+                    Grand
+                  </div>
+                )}
               </div>
 
-              {/* Product Info - Only Grand badge */}
-              {isGrand && (
-                <div className="mt-3">
-                  <p className="text-xs text-text-light tracking-wide uppercase">
-                    Grand
+              {/* Product Info - Below Image */}
+              <div className="mt-4">
+                <h3 className="text-sm font-light text-text-primary leading-tight group-hover:text-primary-600 transition-colors duration-300">
+                  {product.name}
+                </h3>
+                {isGrand && (
+                  <p className="text-xs text-gold-600 mt-2 tracking-wider uppercase font-medium">
+                    Grand Collection
                   </p>
-                </div>
-              )}
+                )}
+              </div>
             </div>
           );
         })}

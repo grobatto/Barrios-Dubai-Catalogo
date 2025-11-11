@@ -34,3 +34,6 @@ next-env.d.ts
 
 # Source images (keep converted WebP only)
 /fotos guzman ayala/
+
+# Local Netlify folder
+.netlify

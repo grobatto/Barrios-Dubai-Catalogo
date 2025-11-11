@@ -1,0 +1,705 @@
+{
+  "summary": {
+    "total_products": 113,
+    "total_referenced_images": 218,
+    "total_disk_images": 255,
+    "broken_links_count": 0,
+    "orphaned_images_count": 37
+  },
+  "image_references": {
+    "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-50.webp": [
+      "grand-002"
+    ],
+    "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-51.webp": [
+      "grand-002"
+    ],
+    "/images/products/grandes/nueva-carpeta-2/nueva-carpeta/adobe-express-file-52.webp": [
+      "grand-002"
+    ],
+    "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-53.webp": [
+      "grand-003"
+    ],
+    "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-54.webp": [
+      "grand-003"
+    ],
+    "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-55.webp": [
+      "grand-003"
+    ],
+    "/images/products/grandes/nueva-carpeta-3/nueva-carpeta/adobe-express-file-56.webp": [
+      "grand-003"
+    ],
+    "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-57.webp": [
+      "grand-004"
+    ],
+    "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-58.webp": [
+      "grand-004"
+    ],
+    "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-59.webp": [
+      "grand-004"
+    ],
+    "/images/products/grandes/nueva-carpeta-4/nueva-carpeta/adobe-express-file-60.webp": [
+      "grand-004"
+    ],
+    "/images/products/grandes/nueva-carpeta-5/nueva-carpeta/adobe-express-file-61.webp": [
+      "grand-005"
+    ],
+    "/images/products/grandes/nueva-carpeta-5/nueva-carpeta/adobe-express-file-62.webp": [
+      "grand-005"
+    ],
+    "/images/products/grandes/nueva-carpeta-6/nueva-carpeta/adobe-express-file-63.webp": [
+      "grand-006"
+    ],
+    "/images/products/grandes/nueva-carpeta-6/nueva-carpeta/adobe-express-file-64.webp": [
+      "grand-006"
+    ],
+    "/images/products/grandes/nueva-carpeta-7/nueva-carpeta/adobe-express-file-65.webp": [
+      "grand-007"
+    ],
+    "/images/products/grandes/nueva-carpeta-8/nueva-carpeta/adobe-express-file-66.webp": [
+      "grand-008"
+    ],
+    "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-43.webp": [
+      "grand-001"
+    ],
+    "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-44.webp": [
+      "grand-001"
+    ],
+    "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-45.webp": [
+      "grand-001"
+    ],
+    "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-46.webp": [
+      "grand-001"
+    ],
+    "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-47.webp": [
+      "grand-001"
+    ],
+    "/images/products/grandes/nueva-carpeta/nueva-carpeta/adobe-express-file-49.webp": [
+      "grand-001"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t194936-553.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t194956-076.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195006-667.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195017-429.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195451-129.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195514-633.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195523-882.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195652-585.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195713-121.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195722-383.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195737-124.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195822-146.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195831-323.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195841-587.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195850-063.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195901-807.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195939-788.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t195950-893.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200001-696.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200012-505.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200024-524.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200335-516.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200346-943.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200436-153.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200502-013.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200544-941.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200553-994.webp": [
+      "grand-009"
+    ],
+    "/images/products/grandes/whatsapp-unknown-2025-11-05-at-11-15-04/nueva-carpeta/adobe-express-file-2025-11-06t200621-390.webp": [
+      "grand-009"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190537-521.webp": [
+      "uruguay-025"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190550-581.webp": [
+      "uruguay-025"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190603-342.webp": [
+      "uruguay-026"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190620-157.webp": [
+      "uruguay-026"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190634-887.webp": [
+      "uruguay-027"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190725-351.webp": [
+      "uruguay-027"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190743-832.webp": [
+      "uruguay-028"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190757-041.webp": [
+      "uruguay-028"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190807-947.webp": [
+      "uruguay-029"
+    ],
+    "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190820-388.webp": [
+      "uruguay-029"
+    ],
+    "/images/products/uruguay/bases-de-metal/img-2619.webp": [
+      "uruguay-030"
+    ],
+    "/images/products/uruguay/bases-de-metal/img-2623.webp": [
+      "uruguay-030"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112048.webp": [
+      "uruguay-031"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112254.webp": [
+      "uruguay-031"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112334.webp": [
+      "uruguay-032"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112412.webp": [
+      "uruguay-032"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112501.webp": [
+      "uruguay-033"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112739.webp": [
+      "uruguay-033"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112810.webp": [
+      "uruguay-034"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112859.webp": [
+      "uruguay-034"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-112955.webp": [
+      "uruguay-035"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113049.webp": [
+      "uruguay-035"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113142.webp": [
+      "uruguay-036"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113314.webp": [
+      "uruguay-036"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113409.webp": [
+      "uruguay-037"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113449.webp": [
+      "uruguay-037"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113537.webp": [
+      "uruguay-038"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113605.webp": [
+      "uruguay-038"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113639.webp": [
+      "uruguay-039"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113719.webp": [
+      "uruguay-039"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-113920.webp": [
+      "uruguay-040"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-114013.webp": [
+      "uruguay-040"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-114117.webp": [
+      "uruguay-041"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-114718.webp": [
+      "uruguay-041"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-114811.webp": [
+      "uruguay-042"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-114901.webp": [
+      "uruguay-042"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-115258.webp": [
+      "uruguay-043"
+    ],
+    "/images/products/uruguay/bases-de-metal/photoroom-20250624-115326.webp": [
+      "uruguay-043"
+    ],
+    "/images/products/uruguay/bases-de-metal/upscalemedia-transformed-1.webp": [
+      "uruguay-044"
+    ],
+    "/images/products/uruguay/bultos/feria-2.webp": [
+      "uruguay-045"
+    ],
+    "/images/products/uruguay/bultos/img-2634.webp": [
+      "uruguay-045"
+    ],
+    "/images/products/uruguay/bultos/img-2635.webp": [
+      "uruguay-046"
+    ],
+    "/images/products/uruguay/bultos/img-2636.webp": [
+      "uruguay-046"
+    ],
+    "/images/products/uruguay/bultos/img-2637.webp": [
+      "uruguay-047"
+    ],
+    "/images/products/uruguay/bultos/img-2638.webp": [
+      "uruguay-047"
+    ],
+    "/images/products/uruguay/bultos/img-2639.webp": [
+      "uruguay-048"
+    ],
+    "/images/products/uruguay/bultos/img-2640.webp": [
+      "uruguay-048"
+    ],
+    "/images/products/uruguay/bultos/img-2641.webp": [
+      "uruguay-049"
+    ],
+    "/images/products/uruguay/bultos/img-2642.webp": [
+      "uruguay-049"
+    ],
+    "/images/products/uruguay/bultos/img-2643.webp": [
+      "uruguay-050"
+    ],
+    "/images/products/uruguay/chapas/fullsizerender-2.webp": [
+      "uruguay-051"
+    ],
+    "/images/products/uruguay/chapas/img-8116.webp": [
+      "uruguay-051"
+    ],
+    "/images/products/uruguay/chapas/img-8118.webp": [
+      "uruguay-052"
+    ],
+    "/images/products/uruguay/chapas/img-8119.webp": [
+      "uruguay-052"
+    ],
+    "/images/products/uruguay/chapas/img-8120.webp": [
+      "uruguay-053"
+    ],
+    "/images/products/uruguay/chapas/img-8121.webp": [
+      "uruguay-053"
+    ],
+    "/images/products/uruguay/chapas/img-8122.webp": [
+      "uruguay-054"
+    ],
+    "/images/products/uruguay/chapas/img-8123.webp": [
+      "uruguay-054"
+    ],
+    "/images/products/uruguay/chapas/img-8124.webp": [
+      "uruguay-055"
+    ],
+    "/images/products/uruguay/chapas/img-8125.webp": [
+      "uruguay-055"
+    ],
+    "/images/products/uruguay/chapas/img-8126.webp": [
+      "uruguay-056"
+    ],
+    "/images/products/uruguay/chapas/img-8127.webp": [
+      "uruguay-056"
+    ],
+    "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-01-27-pm.webp": [
+      "uruguay-057"
+    ],
+    "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-07-pm.webp": [
+      "uruguay-060"
+    ],
+    "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-09-pm.webp": [
+      "uruguay-061"
+    ],
+    "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-13-pm.webp": [
+      "uruguay-062"
+    ],
+    "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-photoroom-1.webp": [
+      "uruguay-058"
+    ],
+    "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-photoroom.webp": [
+      "uruguay-059"
+    ],
+    "/images/products/uruguay/cortados/img-5099.webp": [
+      "uruguay-063"
+    ],
+    "/images/products/uruguay/cortados/img-5198.webp": [
+      "uruguay-063"
+    ],
+    "/images/products/uruguay/cortados/img-5200.webp": [
+      "uruguay-064"
+    ],
+    "/images/products/uruguay/cortados/img-5978.webp": [
+      "uruguay-064"
+    ],
+    "/images/products/uruguay/cortados/img-5982.webp": [
+      "uruguay-065"
+    ],
+    "/images/products/uruguay/cortados/img-5983.webp": [
+      "uruguay-065"
+    ],
+    "/images/products/uruguay/cortados/img-5984.webp": [
+      "uruguay-066"
+    ],
+    "/images/products/uruguay/cortados/img-5987.webp": [
+      "uruguay-066"
+    ],
+    "/images/products/uruguay/cortados/img-5988.webp": [
+      "uruguay-067"
+    ],
+    "/images/products/uruguay/cortados/img-5991.webp": [
+      "uruguay-067"
+    ],
+    "/images/products/uruguay/cortados/img-5992.webp": [
+      "uruguay-068"
+    ],
+    "/images/products/uruguay/cortados/img-5995.webp": [
+      "uruguay-068"
+    ],
+    "/images/products/uruguay/cortados/img-5996.webp": [
+      "uruguay-069"
+    ],
+    "/images/products/uruguay/cortados/img-5997.webp": [
+      "uruguay-069"
+    ],
+    "/images/products/uruguay/cortados/img-5999.webp": [
+      "uruguay-070"
+    ],
+    "/images/products/uruguay/cortados/img-7993.webp": [
+      "uruguay-070"
+    ],
+    "/images/products/uruguay/cortados/img-8009.webp": [
+      "uruguay-071"
+    ],
+    "/images/products/uruguay/cortados/img-8365.webp": [
+      "uruguay-071"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-03-26-am.webp": [
+      "uruguay-072"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-14-47-am.webp": [
+      "uruguay-072"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-22-00-am.webp": [
+      "uruguay-073"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-33-54-am.webp": [
+      "uruguay-073"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-40-45-am.webp": [
+      "uruguay-074"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-56-30-am.webp": [
+      "uruguay-074"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-59-23-am.webp": [
+      "uruguay-075"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-25-15-am.webp": [
+      "uruguay-075"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-32-04-am.webp": [
+      "uruguay-076"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-47-53-am.webp": [
+      "uruguay-076"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-52-39-am.webp": [
+      "uruguay-077"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-9-18-03-am.webp": [
+      "uruguay-077"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-9-26-12-am.webp": [
+      "uruguay-078"
+    ],
+    "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-9-58-26-am.webp": [
+      "uruguay-078"
+    ],
+    "/images/products/uruguay/freeform-a/img-4509.webp": [
+      "uruguay-001"
+    ],
+    "/images/products/uruguay/freeform-a/img-4510.webp": [
+      "uruguay-002"
+    ],
+    "/images/products/uruguay/freeform-b/img-4508.webp": [
+      "uruguay-003"
+    ],
+    "/images/products/uruguay/freeform-brillo-2/img-4505.webp": [
+      "uruguay-004"
+    ],
+    "/images/products/uruguay/freeform-extra/img-4512.webp": [
+      "uruguay-005"
+    ],
+    "/images/products/uruguay/freeforms-minis/img-4635.webp": [
+      "uruguay-006"
+    ],
+    "/images/products/uruguay/home-deco-special-pieces/luminaria-de-luna-en-chapa-de-a-gata-deco.webp": [
+      "uruguay-079"
+    ],
+    "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-123119-1.webp": [
+      "uruguay-080"
+    ],
+    "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-123119.webp": [
+      "uruguay-081"
+    ],
+    "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-131353.webp": [
+      "uruguay-082"
+    ],
+    "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-135841.webp": [
+      "uruguay-083"
+    ],
+    "/images/products/uruguay/home-deco-special-pieces/photoroom-20250625-093733.webp": [
+      "uruguay-084"
+    ],
+    "/images/products/uruguay/huevos/img-2651.webp": [
+      "uruguay-085"
+    ],
+    "/images/products/uruguay/huevos/img-2652.webp": [
+      "uruguay-086"
+    ],
+    "/images/products/uruguay/huevos/img-2653.webp": [
+      "uruguay-087"
+    ],
+    "/images/products/uruguay/huevos/your-paragraph-text-6.webp": [
+      "uruguay-088"
+    ],
+    "/images/products/uruguay/piramides/copia-de-img-5129.webp": [
+      "uruguay-089"
+    ],
+    "/images/products/uruguay/piramides/img-2657.webp": [
+      "uruguay-090"
+    ],
+    "/images/products/uruguay/piramides/img-2658.webp": [
+      "uruguay-091"
+    ],
+    "/images/products/uruguay/piramides/img-2659.webp": [
+      "uruguay-092"
+    ],
+    "/images/products/uruguay/piramides/img-6390.webp": [
+      "uruguay-093"
+    ],
+    "/images/products/uruguay/piramides/img-6392.webp": [
+      "uruguay-094"
+    ],
+    "/images/products/uruguay/piramides/pyramids-2.webp": [
+      "uruguay-095"
+    ],
+    "/images/products/uruguay/preformados/img-5113.webp": [
+      "uruguay-096"
+    ],
+    "/images/products/uruguay/preformados/img-5114.webp": [
+      "uruguay-097"
+    ],
+    "/images/products/uruguay/preformados/img-5115.webp": [
+      "uruguay-098"
+    ],
+    "/images/products/uruguay/preformados/img-5117.webp": [
+      "uruguay-099"
+    ],
+    "/images/products/uruguay/preformados/img-5118.webp": [
+      "uruguay-100"
+    ],
+    "/images/products/uruguay/preformados/img-5147.webp": [
+      "uruguay-101"
+    ],
+    "/images/products/uruguay/preformados/img-5172.webp": [
+      "uruguay-102"
+    ],
+    "/images/products/uruguay/preformados/img-5190.webp": [
+      "uruguay-103"
+    ],
+    "/images/products/uruguay/preformados/photoroom-20250717-142555.webp": [
+      "uruguay-104"
+    ],
+    "/images/products/uruguay/torres/0b26cef6-9b4b-4a2d-9efe-6c592acced5f.webp": [
+      "uruguay-007"
+    ],
+    "/images/products/uruguay/torres/16285c03-b15a-4db8-800f-bee71c9c48f7.webp": [
+      "uruguay-007"
+    ],
+    "/images/products/uruguay/torres/1e166336-56b7-4b0d-9aad-5aa0e759c1c8.webp": [
+      "uruguay-008"
+    ],
+    "/images/products/uruguay/torres/228e410b-68f3-4e10-880c-430420061811.webp": [
+      "uruguay-008"
+    ],
+    "/images/products/uruguay/torres/23ac31e1-78df-47c4-9693-8cd367441093.webp": [
+      "uruguay-009"
+    ],
+    "/images/products/uruguay/torres/27e65181-4c0c-4a12-932b-2a86355e71f8.webp": [
+      "uruguay-009"
+    ],
+    "/images/products/uruguay/torres/48a7200d-bf2b-4842-90f4-51812764a6f2.webp": [
+      "uruguay-010"
+    ],
+    "/images/products/uruguay/torres/48c5cf69-3758-4793-9541-566b0faa6ca3.webp": [
+      "uruguay-010"
+    ],
+    "/images/products/uruguay/torres/491e67b2-c3e3-44a7-a681-3c41f1dc622a.webp": [
+      "uruguay-011"
+    ],
+    "/images/products/uruguay/torres/4d06f0bf-4b96-4f02-8b41-56918e74bd18.webp": [
+      "uruguay-011"
+    ],
+    "/images/products/uruguay/torres/4e1eb4da-e78e-400b-9178-bf4fb43c664a.webp": [
+      "uruguay-012"
+    ],
+    "/images/products/uruguay/torres/50464601-921e-4183-b670-0081c15e3d61.webp": [
+      "uruguay-012"
+    ],
+    "/images/products/uruguay/torres/5244dc8e-4451-45a9-a09e-b5a996901a11.webp": [
+      "uruguay-013"
+    ],
+    "/images/products/uruguay/torres/6da4b832-9c8a-4299-a440-2e45e3b03b61.webp": [
+      "uruguay-013"
+    ],
+    "/images/products/uruguay/torres/7283e5ad-d208-43f1-96eb-ab21b3b77ae2.webp": [
+      "uruguay-014"
+    ],
+    "/images/products/uruguay/torres/7bb7b7ab-c38f-437e-97af-2bb4bd807864.webp": [
+      "uruguay-014"
+    ],
+    "/images/products/uruguay/torres/811c4f0e-344c-486c-99ab-252007fb1cfe.webp": [
+      "uruguay-015"
+    ],
+    "/images/products/uruguay/torres/99c53fc1-a10c-4c0d-8a1f-fa38fd1ae097.webp": [
+      "uruguay-015"
+    ],
+    "/images/products/uruguay/torres/a8bac54c-0041-4c01-914f-0dc47fcb27e8.webp": [
+      "uruguay-016"
+    ],
+    "/images/products/uruguay/torres/a8f17a31-8c39-4b21-ba6f-9f0f1984cb53.webp": [
+      "uruguay-016"
+    ],
+    "/images/products/uruguay/torres/c60733e0-08ac-45ee-af3f-2c9384846325.webp": [
+      "uruguay-017"
+    ],
+    "/images/products/uruguay/torres/c907eebd-6c36-4ece-889b-6219bd3811f5.webp": [
+      "uruguay-017"
+    ],
+    "/images/products/uruguay/torres/db49b2bd-158e-469e-8ee9-f08ff4b508bf.webp": [
+      "uruguay-018"
+    ],
+    "/images/products/uruguay/torres/e1368436-3eeb-4f18-83f9-94b1f8f0908f.webp": [
+      "uruguay-018"
+    ],
+    "/images/products/uruguay/torres/e84b934b-2850-4093-b3c7-ca8be42f6054.webp": [
+      "uruguay-019"
+    ],
+    "/images/products/uruguay/torres/ffd09336-9ce0-45f1-a7c6-f2f6882abe00.webp": [
+      "uruguay-019"
+    ],
+    "/images/products/uruguay/torres/img-4483.webp": [
+      "uruguay-020"
+    ],
+    "/images/products/uruguay/torres/img-4484.webp": [
+      "uruguay-020"
+    ],
+    "/images/products/uruguay/torres/img-4487.webp": [
+      "uruguay-021"
+    ],
+    "/images/products/uruguay/torres/img-5125.webp": [
+      "uruguay-021"
+    ],
+    "/images/products/uruguay/torres/img-5126.webp": [
+      "uruguay-022"
+    ],
+    "/images/products/uruguay/torres/img-5127.webp": [
+      "uruguay-022"
+    ],
+    "/images/products/uruguay/torres/img-5128.webp": [
+      "uruguay-023"
+    ],
+    "/images/products/uruguay/torres/img-7839.webp": [
+      "uruguay-023"
+    ],
+    "/images/products/uruguay/torres/img-7840.webp": [
+      "uruguay-024"
+    ]
+  },
+  "broken_links": [],
+  "orphaned_images": [
+    "/images/products/grandes/nueva-carpeta-10/adobe-express-file-68.webp",
+    "/images/products/grandes/nueva-carpeta-11/adobe-express-file-69.webp",
+    "/images/products/grandes/nueva-carpeta-11/adobe-express-file-70.webp",
+    "/images/products/grandes/nueva-carpeta-11/adobe-express-file-71.webp",
+    "/images/products/grandes/nueva-carpeta-12/adobe-express-file-72.webp",
+    "/images/products/grandes/nueva-carpeta-13/adobe-express-file-73.webp",
+    "/images/products/grandes/nueva-carpeta-13/adobe-express-file-74.webp",
+    "/images/products/grandes/nueva-carpeta-13/adobe-express-file-75.webp",
+    "/images/products/grandes/nueva-carpeta-14/adobe-express-file-79.webp",
+    "/images/products/grandes/nueva-carpeta-14/adobe-express-file-80.webp",
+    "/images/products/grandes/nueva-carpeta-15/adobe-express-file-81.webp",
+    "/images/products/grandes/nueva-carpeta-16/adobe-express-file-82.webp",
+    "/images/products/grandes/nueva-carpeta-17/adobe-express-file-83.webp",
+    "/images/products/grandes/nueva-carpeta-17/adobe-express-file-84.webp",
+    "/images/products/grandes/nueva-carpeta-17/adobe-express-file-85.webp",
+    "/images/products/grandes/nueva-carpeta-17/untitled.webp",
+    "/images/products/grandes/nueva-carpeta-18/adobe-express-file-88.webp",
+    "/images/products/grandes/nueva-carpeta-18/adobe-express-file-89.webp",
+    "/images/products/grandes/nueva-carpeta-19/adobe-express-file-90.webp",
+    "/images/products/grandes/nueva-carpeta-19/adobe-express-file-91.webp",
+    "/images/products/grandes/nueva-carpeta-20/adobe-express-file-92.webp",
+    "/images/products/grandes/nueva-carpeta-20/untitled-1.webp",
+    "/images/products/grandes/nueva-carpeta-21/adobe-express-file-94.webp",
+    "/images/products/grandes/nueva-carpeta-22/adobe-express-file-95.webp",
+    "/images/products/grandes/nueva-carpeta-22/adobe-express-file-96.webp",
+    "/images/products/grandes/nueva-carpeta-22/adobe-express-file-97.webp",
+    "/images/products/grandes/nueva-carpeta-23/adobe-express-file-100.webp",
+    "/images/products/grandes/nueva-carpeta-23/adobe-express-file-2025-11-06t194736-643.webp",
+    "/images/products/grandes/nueva-carpeta-23/adobe-express-file-2025-11-06t194747-766.webp",
+    "/images/products/grandes/nueva-carpeta-23/adobe-express-file-2025-11-06t194800-450.webp",
+    "/images/products/grandes/nueva-carpeta-23/adobe-express-file-98.webp",
+    "/images/products/grandes/nueva-carpeta-23/adobe-express-file-99.webp",
+    "/images/products/grandes/nueva-carpeta-24/adobe-express-file-2025-11-06t194659-816.webp",
+    "/images/products/grandes/nueva-carpeta-8/img-3991.webp",
+    "/images/products/grandes/nueva-carpeta-9/adobe-express-file-67.webp",
+    "/images/products/uruguay/corazones/copia-de-img-5112.webp",
+    "/images/products/uruguay/corazones/copia-de-img-5140.webp"
+  ]
+}

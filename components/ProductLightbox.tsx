@@ -22,7 +22,8 @@ export default function ProductLightbox({
     alt: product.name,
   }));
 
-  const whatsappNumber = '+971XXXXXXXXX';
+  // WhatsApp contact for international inquiries (Artigas, Uruguay)
+  const whatsappNumber = '+59899967347';
   const whatsappMessage = `Hello, I'm interested in ${product.name}`;
   const whatsappUrl = `https://wa.me/${whatsappNumber.replace(/[^0-9]/g, '')}?text=${encodeURIComponent(whatsappMessage)}`;
 

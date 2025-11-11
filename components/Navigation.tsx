@@ -17,8 +17,8 @@ export default function Navigation() {
       <div className="container-custom">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link href="/catalog" className="flex-shrink-0">
-            <h1 className="text-sm md:text-base font-medium tracking-wider text-text-primary">
+          <Link href="/" className="flex-shrink-0">
+            <h1 className="text-sm md:text-base font-medium tracking-wider text-text-primary hover:text-primary-600 transition-colors">
               BARRIOS AMETHYSTS
             </h1>
           </Link>

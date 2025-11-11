@@ -20,6 +20,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="antialiased">
+        {/* Skip to main content link for keyboard accessibility */}
+        <a
+          href="#main-content"
+          className="absolute -top-full left-0 z-50 bg-primary-600 text-white px-4 py-2 focus:top-0"
+          tabIndex={0}
+        >
+          Skip to main content
+        </a>
         {children}
       </body>
     </html>

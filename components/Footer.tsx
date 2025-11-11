@@ -1,7 +1,8 @@
 import Link from 'next/link';
 
 export default function Footer() {
-  const whatsappNumber = '+971XXXXXXXXX';
+  // WhatsApp contact for international inquiries (Artigas, Uruguay)
+  const whatsappNumber = '+59899967347';
   const instagramHandle = '@barriosamethysts';
 
   return (
