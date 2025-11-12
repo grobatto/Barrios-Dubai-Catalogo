@@ -3,7 +3,7 @@
     {
       "id": "uruguay-001",
       "name": "Polished Amethyst Cavity Formation",
-      "category": "Cavity",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/freeform-a/img-4509.webp"
@@ -21,7 +21,7 @@
     {
       "id": "uruguay-002",
       "name": "Dark Purple Amethyst Cavity",
-      "category": "Cavity",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/freeform-a/img-4510.webp"
@@ -39,7 +39,7 @@
     {
       "id": "uruguay-003",
       "name": "Purple Amethyst Freeform Piece",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/freeform-b/img-4508.webp"
@@ -57,7 +57,7 @@
     {
       "id": "uruguay-004",
       "name": "Polished Mixed Mineral Freeform",
-      "category": "Shapes",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/freeform-brillo-2/img-4505.webp"
@@ -75,7 +75,7 @@
     {
       "id": "uruguay-005",
       "name": "Elegant Agate Geode Formation",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/freeform-extra/img-4512.webp"
@@ -93,7 +93,7 @@
     {
       "id": "uruguay-006",
       "name": "Mixed Mini Crystal Collection",
-      "category": "Jewelry Box",
+      "category": "Home Decor",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/freeforms-minis/img-4635.webp"
@@ -111,7 +111,7 @@
     {
       "id": "uruguay-007",
       "name": "Polished Amethyst Tower Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/0b26cef6-9b4b-4a2d-9efe-6c592acced5f.webp",
@@ -130,7 +130,7 @@
     {
       "id": "uruguay-008",
       "name": "Polished Crystal Tower Formation",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/1e166336-56b7-4b0d-9aad-5aa0e759c1c8.webp",
@@ -149,7 +149,7 @@
     {
       "id": "uruguay-009",
       "name": "Mixed Crystal Tower Set",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/23ac31e1-78df-47c4-9693-8cd367441093.webp",
@@ -168,7 +168,7 @@
     {
       "id": "uruguay-010",
       "name": "Amethyst Crystal Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/48a7200d-bf2b-4842-90f4-51812764a6f2.webp",
@@ -187,7 +187,7 @@
     {
       "id": "uruguay-011",
       "name": "Clear Quartz Tower Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/491e67b2-c3e3-44a7-a681-3c41f1dc622a.webp",
@@ -206,7 +206,7 @@
     {
       "id": "uruguay-012",
       "name": "Purple Amethyst Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/4e1eb4da-e78e-400b-9178-bf4fb43c664a.webp",
@@ -225,7 +225,7 @@
     {
       "id": "uruguay-013",
       "name": "Lavender Amethyst Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/5244dc8e-4451-45a9-a09e-b5a996901a11.webp",
@@ -244,7 +244,7 @@
     {
       "id": "uruguay-014",
       "name": "Deep Purple Tower Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/7283e5ad-d208-43f1-96eb-ab21b3b77ae2.webp",
@@ -263,7 +263,7 @@
     {
       "id": "uruguay-015",
       "name": "Violet Crystal Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/811c4f0e-344c-486c-99ab-252007fb1cfe.webp",
@@ -282,7 +282,7 @@
     {
       "id": "uruguay-016",
       "name": "Polished Amethyst Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/a8bac54c-0041-4c01-914f-0dc47fcb27e8.webp",
@@ -301,7 +301,7 @@
     {
       "id": "uruguay-017",
       "name": "Banded Amethyst Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/c60733e0-08ac-45ee-af3f-2c9384846325.webp",
@@ -320,7 +320,7 @@
     {
       "id": "uruguay-018",
       "name": "Purple Crystal Tower Formation",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/db49b2bd-158e-469e-8ee9-f08ff4b508bf.webp",
@@ -339,7 +339,7 @@
     {
       "id": "uruguay-019",
       "name": "Elegant Amethyst Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/e84b934b-2850-4093-b3c7-ca8be42f6054.webp",
@@ -358,7 +358,7 @@
     {
       "id": "uruguay-020",
       "name": "Polished Tower Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/img-4483.webp",
@@ -377,7 +377,7 @@
     {
       "id": "uruguay-021",
       "name": "Crystal Tower Formation",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/img-4487.webp",
@@ -396,7 +396,7 @@
     {
       "id": "uruguay-022",
       "name": "Amethyst Point Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/img-5126.webp",
@@ -415,7 +415,7 @@
     {
       "id": "uruguay-023",
       "name": "Polished Quartz Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/img-5128.webp",
@@ -434,7 +434,7 @@
     {
       "id": "uruguay-024",
       "name": "Natural Tower Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/torres/img-7840.webp"
@@ -452,7 +452,7 @@
     {
       "id": "uruguay-025",
       "name": "Crystal Geode on Metal Base",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190537-521.webp",
@@ -471,7 +471,7 @@
     {
       "id": "uruguay-026",
       "name": "Amethyst Cavity on Metal Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190603-342.webp",
@@ -490,7 +490,7 @@
     {
       "id": "uruguay-027",
       "name": "Citrine Druzy on Metal Base",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190634-887.webp",
@@ -509,7 +509,7 @@
     {
       "id": "uruguay-028",
       "name": "Mixed Crystal on Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190743-832.webp",
@@ -528,7 +528,7 @@
     {
       "id": "uruguay-029",
       "name": "Crystal Formation on Metal Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/adobe-express-file-2025-11-07t190807-947.webp",
@@ -547,7 +547,7 @@
     {
       "id": "uruguay-030",
       "name": "Geode on Metal Display Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/img-2619.webp",
@@ -566,7 +566,7 @@
     {
       "id": "uruguay-031",
       "name": "Purple Amethyst Geode on Metal Base",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-112048.webp",
@@ -585,7 +585,7 @@
     {
       "id": "uruguay-032",
       "name": "Citrine Crystal on Metal Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-112334.webp",
@@ -604,7 +604,7 @@
     {
       "id": "uruguay-033",
       "name": "Crystal Cavity on Display Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-112501.webp",
@@ -623,7 +623,7 @@
     {
       "id": "uruguay-034",
       "name": "Amethyst Formation on Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-112810.webp",
@@ -642,7 +642,7 @@
     {
       "id": "uruguay-035",
       "name": "Druzy Cavity on Metal Base",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-112955.webp",
@@ -661,7 +661,7 @@
     {
       "id": "uruguay-036",
       "name": "Crystal Geode on Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-113142.webp",
@@ -680,7 +680,7 @@
     {
       "id": "uruguay-037",
       "name": "Amethyst Piece on Metal Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-113409.webp",
@@ -699,7 +699,7 @@
     {
       "id": "uruguay-038",
       "name": "Mixed Crystal on Display Base",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-113537.webp",
@@ -718,7 +718,7 @@
     {
       "id": "uruguay-039",
       "name": "Cavity Formation on Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-113639.webp",
@@ -737,7 +737,7 @@
     {
       "id": "uruguay-040",
       "name": "Crystal Display on Metal Base",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-113920.webp",
@@ -756,7 +756,7 @@
     {
       "id": "uruguay-041",
       "name": "Geode Specimen on Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-114117.webp",
@@ -775,7 +775,7 @@
     {
       "id": "uruguay-042",
       "name": "Amethyst Cavity on Metal Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-114811.webp",
@@ -794,7 +794,7 @@
     {
       "id": "uruguay-043",
       "name": "Crystal Formation on Display Stand",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/photoroom-20250624-115258.webp",
@@ -813,7 +813,7 @@
     {
       "id": "uruguay-044",
       "name": "Mineral Specimen on Metal Base",
-      "category": "With base",
+      "category": "Metal Bases",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bases-de-metal/upscalemedia-transformed-1.webp"
@@ -831,7 +831,7 @@
     {
       "id": "uruguay-045",
       "name": "Deep Purple Amethyst Cluster",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bultos/feria-2.webp",
@@ -850,7 +850,7 @@
     {
       "id": "uruguay-046",
       "name": "Raw Amethyst Crystal Cluster",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bultos/img-2635.webp",
@@ -869,7 +869,7 @@
     {
       "id": "uruguay-047",
       "name": "Natural Amethyst Formation",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bultos/img-2637.webp",
@@ -888,7 +888,7 @@
     {
       "id": "uruguay-048",
       "name": "Purple Crystal Cluster",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bultos/img-2639.webp",
@@ -907,7 +907,7 @@
     {
       "id": "uruguay-049",
       "name": "Raw Amethyst Specimen",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bultos/img-2641.webp",
@@ -926,7 +926,7 @@
     {
       "id": "uruguay-050",
       "name": "Amethyst Crystal Cluster",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/bultos/img-2643.webp"
@@ -944,7 +944,7 @@
     {
       "id": "uruguay-051",
       "name": "Banded Agate Slab Display",
-      "category": "Agates",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/chapas/fullsizerender-2.webp",
@@ -963,7 +963,7 @@
     {
       "id": "uruguay-052",
       "name": "Polished Agate Slice",
-      "category": "Agates",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/chapas/img-8118.webp",
@@ -982,7 +982,7 @@
     {
       "id": "uruguay-053",
       "name": "Natural Agate Slab",
-      "category": "Agates",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/chapas/img-8120.webp",
@@ -1039,7 +1039,7 @@
     {
       "id": "uruguay-056",
       "name": "Natural Banded Agate Slice",
-      "category": "Agates",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/chapas/img-8126.webp",
@@ -1058,7 +1058,7 @@
     {
       "id": "uruguay-057",
       "name": "Mixed Druzy Heart Collection",
-      "category": "Shapes",
+      "category": "Hearts",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-01-27-pm.webp"
@@ -1076,7 +1076,7 @@
     {
       "id": "uruguay-058",
       "name": "Purple Druzy Heart",
-      "category": "Shapes",
+      "category": "Hearts",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-photoroom-1.webp"
@@ -1094,7 +1094,7 @@
     {
       "id": "uruguay-059",
       "name": "Pink Druzy Heart Formation",
-      "category": "Shapes",
+      "category": "Hearts",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-photoroom.webp"
@@ -1112,7 +1112,7 @@
     {
       "id": "uruguay-060",
       "name": "Citrine Druzy Heart",
-      "category": "Shapes",
+      "category": "Hearts",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-07-pm.webp"
@@ -1130,7 +1130,7 @@
     {
       "id": "uruguay-061",
       "name": "Green Crystal Heart",
-      "category": "Shapes",
+      "category": "Hearts",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-09-pm.webp"
@@ -1148,7 +1148,7 @@
     {
       "id": "uruguay-062",
       "name": "Mixed Color Heart Formation",
-      "category": "Shapes",
+      "category": "Hearts",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/corazones/whatsapp-image-2025-04-11-at-3-46-13-pm.webp"
@@ -1166,7 +1166,7 @@
     {
       "id": "uruguay-063",
       "name": "Polished Amethyst Point on Wood Base",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-5099.webp",
@@ -1185,7 +1185,7 @@
     {
       "id": "uruguay-064",
       "name": "Natural Amethyst Tower Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-5200.webp",
@@ -1204,7 +1204,7 @@
     {
       "id": "uruguay-065",
       "name": "Pink Amethyst Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-5982.webp",
@@ -1223,7 +1223,7 @@
     {
       "id": "uruguay-066",
       "name": "Purple Crystal Tower Formation",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-5984.webp",
@@ -1242,7 +1242,7 @@
     {
       "id": "uruguay-067",
       "name": "Amethyst Point Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-5988.webp",
@@ -1261,7 +1261,7 @@
     {
       "id": "uruguay-068",
       "name": "Polished Tower Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-5992.webp",
@@ -1280,7 +1280,7 @@
     {
       "id": "uruguay-069",
       "name": "Natural Amethyst Formation",
-      "category": "Shapes",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-5996.webp",
@@ -1299,7 +1299,7 @@
     {
       "id": "uruguay-070",
       "name": "Purple Tower Crystal",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-5999.webp",
@@ -1318,7 +1318,7 @@
     {
       "id": "uruguay-071",
       "name": "Amethyst Crystal Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/img-8009.webp",
@@ -1337,7 +1337,7 @@
     {
       "id": "uruguay-072",
       "name": "Large Amethyst Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-03-26-am.webp",
@@ -1356,7 +1356,7 @@
     {
       "id": "uruguay-073",
       "name": "Natural Tower Formation",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-22-00-am.webp",
@@ -1375,7 +1375,7 @@
     {
       "id": "uruguay-074",
       "name": "Polished Amethyst Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-40-45-am.webp",
@@ -1394,7 +1394,7 @@
     {
       "id": "uruguay-075",
       "name": "Crystal Point Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-10-59-23-am.webp",
@@ -1413,7 +1413,7 @@
     {
       "id": "uruguay-076",
       "name": "Amethyst Tower Formation",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-32-04-am.webp",
@@ -1432,7 +1432,7 @@
     {
       "id": "uruguay-077",
       "name": "Purple Tower Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-11-52-39-am.webp",
@@ -1451,7 +1451,7 @@
     {
       "id": "uruguay-078",
       "name": "Elegant Amethyst Tower",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/cortados/whatsapp-image-2025-08-11-at-9-26-12-am.webp",
@@ -1488,7 +1488,7 @@
     {
       "id": "uruguay-080",
       "name": "Decorative Crystal Specimen",
-      "category": "Jewelry Box",
+      "category": "Home Decor",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-123119-1.webp"
@@ -1506,7 +1506,7 @@
     {
       "id": "uruguay-081",
       "name": "Crystal Decorative Piece",
-      "category": "Jewelry Box",
+      "category": "Home Decor",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-123119.webp"
@@ -1524,7 +1524,7 @@
     {
       "id": "uruguay-082",
       "name": "Mineral Display Specimen",
-      "category": "Jewelry Box",
+      "category": "Home Decor",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-131353.webp"
@@ -1542,7 +1542,7 @@
     {
       "id": "uruguay-083",
       "name": "Decorative Mineral Piece",
-      "category": "Jewelry Box",
+      "category": "Home Decor",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/home-deco-special-pieces/photoroom-20250624-135841.webp"
@@ -1560,7 +1560,7 @@
     {
       "id": "uruguay-084",
       "name": "Small Crystal Display Piece",
-      "category": "Jewelry Box",
+      "category": "Home Decor",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/home-deco-special-pieces/photoroom-20250625-093733.webp"
@@ -1578,7 +1578,7 @@
     {
       "id": "uruguay-085",
       "name": "Crystal Egg with Wood Base",
-      "category": "Shapes",
+      "category": "Eggs",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/huevos/img-2651.webp"
@@ -1596,7 +1596,7 @@
     {
       "id": "uruguay-086",
       "name": "Amethyst Egg Formation",
-      "category": "Shapes",
+      "category": "Eggs",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/huevos/img-2652.webp"
@@ -1614,7 +1614,7 @@
     {
       "id": "uruguay-087",
       "name": "Polished Mineral Egg",
-      "category": "Shapes",
+      "category": "Eggs",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/huevos/img-2653.webp"
@@ -1632,7 +1632,7 @@
     {
       "id": "uruguay-088",
       "name": "Crystal Egg Display Piece",
-      "category": "Shapes",
+      "category": "Eggs",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/huevos/your-paragraph-text-6.webp"
@@ -1650,7 +1650,7 @@
     {
       "id": "uruguay-089",
       "name": "Amethyst Pyramid Formation",
-      "category": "Shapes",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/piramides/copia-de-img-5129.webp"
@@ -1668,7 +1668,7 @@
     {
       "id": "uruguay-090",
       "name": "Purple Crystal Pyramid",
-      "category": "Shapes",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/piramides/img-2657.webp"
@@ -1686,7 +1686,7 @@
     {
       "id": "uruguay-091",
       "name": "Polished Amethyst Pyramid",
-      "category": "Shapes",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/piramides/img-2658.webp"
@@ -1704,7 +1704,7 @@
     {
       "id": "uruguay-092",
       "name": "Crystal Pyramid Point",
-      "category": "Shapes",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/piramides/img-2659.webp"
@@ -1722,7 +1722,7 @@
     {
       "id": "uruguay-093",
       "name": "Amethyst Pyramid Specimen",
-      "category": "Shapes",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/piramides/img-6390.webp"
@@ -1740,7 +1740,7 @@
     {
       "id": "uruguay-094",
       "name": "Polished Pyramid Formation",
-      "category": "Shapes",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/piramides/img-6392.webp"
@@ -1758,7 +1758,7 @@
     {
       "id": "uruguay-095",
       "name": "Purple Pyramid Crystal",
-      "category": "Shapes",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/piramides/pyramids-2.webp"
@@ -1776,7 +1776,7 @@
     {
       "id": "uruguay-096",
       "name": "Mixed Druzy Cavity Collection",
-      "category": "Cavity",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/img-5113.webp"
@@ -1794,7 +1794,7 @@
     {
       "id": "uruguay-097",
       "name": "Natural Druzy Cavities",
-      "category": "Cavity",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/img-5114.webp"
@@ -1812,7 +1812,7 @@
     {
       "id": "uruguay-098",
       "name": "Polished Cavity Pieces",
-      "category": "Cavity",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/img-5115.webp"
@@ -1830,7 +1830,7 @@
     {
       "id": "uruguay-099",
       "name": "Druzy Crystal Cavities",
-      "category": "Cavity",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/img-5117.webp"
@@ -1848,7 +1848,7 @@
     {
       "id": "uruguay-100",
       "name": "Mixed Mineral Cavities",
-      "category": "Cavity",
+      "category": "Cutted",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/img-5118.webp"
@@ -1866,7 +1866,7 @@
     {
       "id": "uruguay-101",
       "name": "Small Amethyst Cluster",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/img-5147.webp"
@@ -1884,7 +1884,7 @@
     {
       "id": "uruguay-102",
       "name": "Purple Amethyst Formation",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/img-5172.webp"
@@ -1902,7 +1902,7 @@
     {
       "id": "uruguay-103",
       "name": "Natural Amethyst Piece",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/img-5190.webp"
@@ -1920,7 +1920,7 @@
     {
       "id": "uruguay-104",
       "name": "Raw Amethyst Specimen",
-      "category": "Amethyst",
+      "category": "Freeforms",
       "section": "uruguay",
       "images": [
         "/images/products/uruguay/preformados/photoroom-20250717-142555.webp"
@@ -1938,7 +1938,7 @@
     {
       "id": "grand-001",
       "name": "Majestic Cathedral Geode - Grand #01",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [
@@ -1969,7 +1969,7 @@
     {
       "id": "grand-002",
       "name": "Royal Purple Statement Geode - Grand #02",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [
@@ -1997,7 +1997,7 @@
     {
       "id": "grand-003",
       "name": "Twilight Cathedral Formation - Grand #03",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [
@@ -2026,7 +2026,7 @@
     {
       "id": "grand-004",
       "name": "Deep Violet Exhibition Geode - Grand #04",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [
@@ -2055,7 +2055,7 @@
     {
       "id": "grand-005",
       "name": "Amethyst Dream Geode - Grand #05",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [
@@ -2082,7 +2082,7 @@
     {
       "id": "grand-006",
       "name": "Purple Majesty Cluster - Grand #06",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [
@@ -2109,7 +2109,7 @@
     {
       "id": "grand-007",
       "name": "Lavender Elegance Geode - Grand #07",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [
@@ -2135,7 +2135,7 @@
     {
       "id": "grand-008",
       "name": "Violet Crown Formation - Grand #08",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [
@@ -2161,7 +2161,7 @@
     {
       "id": "grand-009",
       "name": "The Grand Amethyst Cathedral - Grand #09",
-      "category": "Geodes",
+      "category": "Home Decor",
       "section": "grandes",
       "collection": "grand",
       "images": [

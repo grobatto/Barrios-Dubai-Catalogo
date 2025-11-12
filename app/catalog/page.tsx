@@ -17,8 +17,18 @@ export default function CatalogPage() {
 
   const products = productsData.products as Product[];
 
-  // Only show Uruguay and Grand Collection
-  const collections = ['uruguay', 'grand'];
+  // New category system with 10 categories
+  const collections = [
+    'museumMasterpieces',
+    'eggs',
+    'metalBases',
+    'agates',
+    'hearts',
+    'cutted',
+    'spheres',
+    'freeforms',
+    'homeDecor'
+  ];
 
   // Filter products
   const filteredProducts = useMemo(() => {
@@ -31,12 +41,34 @@ export default function CatalogPage() {
         return false;
       }
 
-      // Match by collection for grand, by section for uruguay
-      const collectionMatch =
-        selectedCollection === 'all' ||
-        product.collection === selectedCollection ||
-        (selectedCollection === 'uruguay' && product.section === 'uruguay');
-      return collectionMatch;
+      // All Collections - show everything
+      if (selectedCollection === 'all') {
+        return true;
+      }
+
+      // Museum Masterpieces - products with collection="grand"
+      if (selectedCollection === 'museumMasterpieces') {
+        return product.collection === 'grand';
+      }
+
+      // Category-based filtering - normalize category names for comparison
+      const normalizeCategory = (cat: string) => cat.toLowerCase().replace(/\s+/g, '');
+      const productCategory = normalizeCategory(product.category);
+      const selectedCategory = normalizeCategory(selectedCollection);
+
+      // Map translation keys to actual category values
+      const categoryMap: { [key: string]: string } = {
+        'eggs': 'eggs',
+        'metalbases': 'metalbases',
+        'agates': 'agates',
+        'hearts': 'hearts',
+        'cutted': 'cutted',
+        'spheres': 'spheres',
+        'freeforms': 'freeforms',
+        'homedecor': 'homedecor'
+      };
+
+      return productCategory === categoryMap[selectedCategory];
     });
   }, [products, selectedCollection]);
 

@@ -17,9 +17,24 @@ export default function FilterBar({
   const { language } = useLanguage();
 
   const getCollectionLabel = (collection: string): string => {
-    if (collection === 'grand') return t('gradesSection', language);
-    if (collection === 'uruguay') return t('uruguaySection', language);
-    return collection;
+    // Map collection keys to translation keys
+    const translationKeyMap: { [key: string]: string } = {
+      'museumMasterpieces': 'museumMasterpieces',
+      'eggs': 'eggs',
+      'metalBases': 'metalBases',
+      'agates': 'agates',
+      'hearts': 'hearts',
+      'cutted': 'cutted',
+      'spheres': 'spheres',
+      'freeforms': 'freeforms',
+      'homeDecor': 'homeDecor',
+      // Legacy support
+      'grand': 'gradesSection',
+      'uruguay': 'uruguaySection'
+    };
+
+    const translationKey = translationKeyMap[collection] || collection;
+    return t(translationKey, language);
   };
 
   return (
@@ -37,7 +52,7 @@ export default function FilterBar({
                   : 'text-text-secondary hover:text-primary-600'
               } tracking-wide uppercase`}
             >
-              {t('allProducts', language)}
+              {t('allCollections', language)}
             </button>
             {collections.map((collection) => (
               <button

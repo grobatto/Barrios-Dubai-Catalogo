@@ -89,6 +89,13 @@ export const translations: Translations = {
   },
 
   // Categories
+  allCollections: {
+    en: 'All Collections',
+    es: 'Todas las Colecciones',
+    pt: 'Todas as Coleções',
+    zh: '所有系列',
+    ar: 'جميع المجموعات',
+  },
   allProducts: {
     en: 'All Products',
     es: 'Todos los Productos',
@@ -96,6 +103,63 @@ export const translations: Translations = {
     zh: '所有产品',
     ar: 'جميع المنتجات',
   },
+  eggs: {
+    en: 'Eggs',
+    es: 'Huevos',
+    pt: 'Ovos',
+    zh: '蛋形',
+    ar: 'بيض',
+  },
+  metalBases: {
+    en: 'Metal Bases',
+    es: 'Bases Metálicas',
+    pt: 'Bases Metálicas',
+    zh: '金属底座',
+    ar: 'قواعد معدنية',
+  },
+  agates: {
+    en: 'Agates',
+    es: 'Ágatas',
+    pt: 'Ágatas',
+    zh: '玛瑙',
+    ar: 'العقيق',
+  },
+  hearts: {
+    en: 'Hearts',
+    es: 'Corazones',
+    pt: 'Corações',
+    zh: '心形',
+    ar: 'قلوب',
+  },
+  cutted: {
+    en: 'Cutted',
+    es: 'Cortados',
+    pt: 'Cortados',
+    zh: '切割',
+    ar: 'مقطوعة',
+  },
+  spheres: {
+    en: 'Spheres',
+    es: 'Esferas',
+    pt: 'Esferas',
+    zh: '球形',
+    ar: 'كرات',
+  },
+  freeforms: {
+    en: 'Freeforms',
+    es: 'Formas Libres',
+    pt: 'Formas Livres',
+    zh: '自由形',
+    ar: 'أشكال حرة',
+  },
+  homeDecor: {
+    en: 'Home Decor',
+    es: 'Decoración del Hogar',
+    pt: 'Decoração de Casa',
+    zh: '家居装饰',
+    ar: 'ديكور منزلي',
+  },
+  // Legacy categories (kept for backward compatibility)
   cavity: {
     en: 'Cavity',
     es: 'Cavidad',
@@ -130,27 +194,6 @@ export const translations: Translations = {
     pt: 'Ametista',
     zh: '紫晶',
     ar: 'الجمشت',
-  },
-  hearts: {
-    en: 'Hearts',
-    es: 'Corazones',
-    pt: 'Corações',
-    zh: '心形',
-    ar: 'قلوب',
-  },
-  agates: {
-    en: 'Agates',
-    es: 'Ágatas',
-    pt: 'Ágatas',
-    zh: '玛瑙',
-    ar: 'العقيق',
-  },
-  freeforms: {
-    en: 'Freeforms',
-    es: 'Formas Libres',
-    pt: 'Formas Livres',
-    zh: '自由形式',
-    ar: 'أشكال حرة',
   },
   others: {
     en: 'Others',
