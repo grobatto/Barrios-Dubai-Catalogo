@@ -79,8 +79,8 @@ export default function ProductLightbox({
           <div className="mt-12">
             {/* Grand Collection Badge */}
             {product.collection === 'grand' && (
-              <div className="inline-block bg-accent-gold text-white text-xs font-semibold px-4 py-2 rounded-full mb-4">
-                GRAND COLLECTION
+              <div className="inline-block bg-accent-gold text-white text-xs font-semibold px-4 py-2 rounded-full mb-4 shadow-md">
+                MUSEUM MASTERPIECE
               </div>
             )}
 

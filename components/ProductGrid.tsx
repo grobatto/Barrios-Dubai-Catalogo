@@ -30,7 +30,7 @@ export default function ProductGrid({ products, onProductClick }: ProductGridPro
               onClick={() => onProductClick(product)}
             >
               {/* Product Image */}
-              <div className={`relative w-full ${isGrand ? 'aspect-square' : 'aspect-[3/4]'} bg-cream overflow-hidden border border-border-light hover:border-primary-200 transition-all duration-500 shadow-sm hover:shadow-luxury`}>
+              <div className={`relative w-full ${isGrand ? 'aspect-square' : 'aspect-[3/4]'} ${isGrand ? 'bg-gradient-to-br from-primary-900 via-primary-800 to-black' : 'bg-cream'} overflow-hidden border ${isGrand ? 'border-accent-gold' : 'border-border-light'} hover:border-primary-200 transition-all duration-500 ${isGrand ? 'shadow-luxury-lg' : 'shadow-sm hover:shadow-luxury'} ${isGrand ? 'p-8' : ''}`}>
                 <Image
                   src={product.images[0]}
                   alt={`${product.name} - ${product.dimensions || 'Uruguayan gemstone'} - Premium amethyst from Artigas`}
@@ -40,19 +40,19 @@ export default function ProductGrid({ products, onProductClick }: ProductGridPro
                   priority={index < 6}
                 />
                 {isGrand && (
-                  <div className="absolute top-4 right-4 bg-gold-500 text-white px-3 py-1 text-xs tracking-wider uppercase font-medium">
-                    Grand
+                  <div className="absolute top-4 right-4 bg-accent-gold text-white px-4 py-2 text-xs tracking-wider uppercase font-medium shadow-lg">
+                    Museum Masterpiece
                   </div>
                 )}
               </div>
 
               {/* Product Info - Below Image */}
-              <div className="mt-4">
-                <h3 className="text-sm font-light text-text-primary leading-tight group-hover:text-primary-600 transition-colors duration-300">
+              <div className={`mt-4 ${isGrand ? 'mt-6' : ''}`}>
+                <h3 className={`${isGrand ? 'text-base font-normal' : 'text-sm font-light'} text-text-primary leading-tight group-hover:text-primary-600 transition-colors duration-300`}>
                   {product.name}
                 </h3>
                 {isGrand && (
-                  <p className="text-xs text-gold-600 mt-2 tracking-wider uppercase font-medium">
+                  <p className="text-sm text-accent-gold mt-3 tracking-wider uppercase font-medium">
                     Grand Collection
                   </p>
                 )}

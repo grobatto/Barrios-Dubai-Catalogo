@@ -172,15 +172,15 @@ export default function Home() {
                 transition={{ duration: 0.8, delay: index * 0.2 }}
               >
                 <Link href="/catalog" className="group block">
-                  <div className="relative aspect-[3/4] bg-cream overflow-hidden mb-6 shadow-luxury group-hover:shadow-luxury-lg transition-all duration-500">
+                  <div className="relative aspect-[3/4] bg-gradient-to-br from-primary-900 via-primary-800 to-black overflow-hidden mb-6 shadow-luxury-lg group-hover:shadow-luxury-lg transition-all duration-500 border border-accent-gold p-6">
                     <Image
                       src={product.images[0]}
                       alt={product.name}
                       fill
-                      className="object-contain p-6 group-hover:scale-105 transition-transform duration-700 ease-out"
+                      className="object-contain group-hover:scale-105 transition-transform duration-700 ease-out"
                     />
-                    <div className="absolute top-4 right-4 bg-gold-500 text-white px-3 py-1 text-xs tracking-wider uppercase font-medium">
-                      Grand
+                    <div className="absolute top-4 right-4 bg-accent-gold text-white px-4 py-2 text-xs tracking-wider uppercase font-medium shadow-lg">
+                      Museum Masterpiece
                     </div>
                   </div>
                   <h3 className="font-serif text-xl md:text-2xl font-light text-text-primary mb-2 group-hover:text-primary-600 transition-colors">

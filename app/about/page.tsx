@@ -100,6 +100,9 @@ export default function AboutPage() {
                 <p className="text-lg text-text-secondary leading-relaxed">
                   {t('familyTraditionPara2', language)}
                 </p>
+                <p className="text-xl text-primary-600 font-light leading-relaxed mt-6 italic border-l-4 border-primary-600 pl-6">
+                  {t('familyDream', language)}
+                </p>
               </motion.div>
             </div>
           </div>
