@@ -62,4 +62,68 @@
       transition-duration: 0.01ms !important;
     }
   }
+
+  /* RTL Support */
+  [dir="rtl"] {
+    direction: rtl;
+    text-align: right;
+  }
+
+  [dir="rtl"] h1,
+  [dir="rtl"] h2,
+  [dir="rtl"] h3,
+  [dir="rtl"] h4,
+  [dir="rtl"] h5,
+  [dir="rtl"] h6,
+  [dir="rtl"] p,
+  [dir="rtl"] span,
+  [dir="rtl"] li {
+    text-align: right;
+  }
+
+  [dir="rtl"] ul,
+  [dir="rtl"] ol {
+    margin-right: 1.5rem;
+    margin-left: 0;
+  }
+
+  [dir="rtl"] li {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  /* RTL Navigation adjustments */
+  [dir="rtl"] .flex {
+    flex-direction: row-reverse;
+  }
+
+  [dir="rtl"] .space-x-8 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  [dir="rtl"] .space-x-8 > * + * {
+    margin-left: 2rem;
+    margin-right: 0;
+  }
+
+  [dir="rtl"] .ml-auto {
+    margin-left: auto;
+    margin-right: 0;
+  }
+
+  [dir="rtl"] .mr-auto {
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  [dir="rtl"] .left-0 {
+    left: auto;
+    right: 0;
+  }
+
+  [dir="rtl"] .right-0 {
+    right: auto;
+    left: 0;
+  }
 }

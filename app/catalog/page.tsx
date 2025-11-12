@@ -6,6 +6,7 @@ import Footer from '@/components/Footer';
 import FilterBar from '@/components/FilterBar';
 import ProductGrid from '@/components/ProductGrid';
 import ProductLightbox from '@/components/ProductLightbox';
+import UniquenessMessage from '@/components/UniquenessMessage';
 import productsData from '@/data/products.json';
 import { Product } from '@/types/product';
 
@@ -55,6 +56,9 @@ export default function CatalogPage() {
           selectedCollection={selectedCollection}
           onCollectionChange={setSelectedCollection}
         />
+
+        {/* Natural Uniqueness Message */}
+        <UniquenessMessage />
 
         {/* Products Grid */}
         <ProductGrid

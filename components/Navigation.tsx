@@ -2,14 +2,18 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { t } from '@/lib/translations';
+import LanguageSelector from './LanguageSelector';
 
 export default function Navigation() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const { language } = useLanguage();
 
   const navLinks = [
-    { href: '/catalog', label: 'Catalog' },
-    { href: '/about', label: 'About' },
-    { href: '/contact', label: 'Contact' },
+    { href: '/catalog', label: 'catalog' },
+    { href: '/about', label: 'about' },
+    { href: '/contact', label: 'contact' },
   ];
 
   return (
@@ -31,17 +35,20 @@ export default function Navigation() {
                 href={link.href}
                 className="text-sm text-text-secondary hover:text-text-primary transition-colors"
               >
-                {link.label}
+                {t(link.label, language)}
               </Link>
             ))}
+            <LanguageSelector />
           </div>
 
-          {/* Mobile Menu Button */}
-          <button
-            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            className="md:hidden p-2 text-text-primary"
-            aria-label="Toggle menu"
-          >
+          {/* Mobile Controls */}
+          <div className="md:hidden flex items-center gap-2">
+            <LanguageSelector />
+            <button
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              className="p-2 text-text-primary"
+              aria-label="Toggle menu"
+            >
             <svg
               className="w-5 h-5"
               fill="none"
@@ -57,7 +64,8 @@ export default function Navigation() {
                 <path d="M4 6h16M4 12h16M4 18h16" />
               )}
             </svg>
-          </button>
+            </button>
+          </div>
         </div>
       </div>
 
@@ -72,7 +80,7 @@ export default function Navigation() {
                 onClick={() => setIsMobileMenuOpen(false)}
                 className="block text-sm text-text-secondary hover:text-text-primary transition-colors"
               >
-                {link.label}
+                {t(link.label, language)}
               </Link>
             ))}
           </div>

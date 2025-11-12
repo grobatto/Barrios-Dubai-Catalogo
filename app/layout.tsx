@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { LanguageProvider } from "@/contexts/LanguageContext";
 
 export const metadata: Metadata = {
   title: "Barrios Amethysts | Premium Uruguayan Gemstones",
@@ -18,17 +19,19 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body className="antialiased">
-        {/* Skip to main content link for keyboard accessibility */}
-        <a
-          href="#main-content"
-          className="absolute -top-full left-0 z-50 bg-primary-600 text-white px-4 py-2 focus:top-0"
-          tabIndex={0}
-        >
-          Skip to main content
-        </a>
-        {children}
+        <LanguageProvider>
+          {/* Skip to main content link for keyboard accessibility */}
+          <a
+            href="#main-content"
+            className="absolute -top-full left-0 z-50 bg-primary-600 text-white px-4 py-2 focus:top-0"
+            tabIndex={0}
+          >
+            Skip to main content
+          </a>
+          {children}
+        </LanguageProvider>
       </body>
     </html>
   );

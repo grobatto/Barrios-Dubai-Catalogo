@@ -3,6 +3,7 @@
 import Lightbox from 'yet-another-react-lightbox';
 import 'yet-another-react-lightbox/styles.css';
 import { Product } from '@/types/product';
+import ProductDisclaimer from './ProductDisclaimer';
 
 interface ProductLightboxProps {
   product: Product | null;
@@ -172,6 +173,8 @@ export default function ProductLightbox({
                 </ul>
               </div>
             )}
+
+            <ProductDisclaimer />
 
             <a
               href={whatsappUrl}

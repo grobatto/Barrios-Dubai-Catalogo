@@ -1,5 +1,8 @@
 'use client';
 
+import { useLanguage } from '@/contexts/LanguageContext';
+import { t } from '@/lib/translations';
+
 interface FilterBarProps {
   collections: string[];
   selectedCollection: string;
@@ -11,9 +14,11 @@ export default function FilterBar({
   selectedCollection,
   onCollectionChange,
 }: FilterBarProps) {
-  const getCollectionLabel = (collection: string) => {
-    if (collection === 'grand') return 'Grand Collection';
-    if (collection === 'uruguay') return 'Uruguay';
+  const { language } = useLanguage();
+
+  const getCollectionLabel = (collection: string): string => {
+    if (collection === 'grand') return t('gradesSection', language);
+    if (collection === 'uruguay') return t('uruguaySection', language);
     return collection;
   };
 
@@ -32,7 +37,7 @@ export default function FilterBar({
                   : 'text-text-secondary hover:text-primary-600'
               } tracking-wide uppercase`}
             >
-              All Collections
+              {t('allProducts', language)}
             </button>
             {collections.map((collection) => (
               <button
