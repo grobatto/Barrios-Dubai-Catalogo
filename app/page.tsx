@@ -24,7 +24,7 @@ export default function Home() {
       <main id="main-content">
 
       {/* Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-primary-50 via-white to-gold-50 pt-24">
+      <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-primary-50 via-off-white to-gold-50 pt-28">
 
         <motion.div
           initial={{ opacity: 0, y: 30 }}

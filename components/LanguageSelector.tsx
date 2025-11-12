@@ -25,16 +25,16 @@ export default function LanguageSelector() {
     <div className="relative" ref={dropdownRef}>
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-sm"
+        className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-800 transition-colors text-sm text-white"
         aria-label="Select language"
         aria-expanded={isOpen}
       >
         <span className="text-lg">{currentLang?.flag}</span>
-        <span className="hidden sm:inline text-gray-700 dark:text-gray-300">{currentLang?.name}</span>
+        <span className="hidden sm:inline">{currentLang?.name}</span>
       </button>
 
       {isOpen && (
-        <div className="absolute right-0 mt-2 w-48 bg-white dark:bg-gray-900 rounded-lg shadow-lg z-50 border border-gray-200 dark:border-gray-800">
+        <div className="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg z-50 border border-gray-200">
           <div className="py-2">
             {supportedLanguages.map((lang) => (
               <button
@@ -45,8 +45,8 @@ export default function LanguageSelector() {
                 }}
                 className={`w-full px-4 py-2 text-left text-sm flex items-center gap-2 transition-colors ${
                   language === lang.code
-                    ? 'bg-blue-50 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400'
-                    : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800'
+                    ? 'bg-primary-50 text-primary-600'
+                    : 'text-gray-700 hover:bg-gray-100'
                 }`}
               >
                 <span className="text-lg">{lang.flag}</span>

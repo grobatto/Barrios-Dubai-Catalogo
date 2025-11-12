@@ -1,4 +1,4 @@
-export type Language = 'en' | 'es' | 'pt' | 'zh' | 'ar' | 'hi';
+export type Language = 'en' | 'es' | 'pt' | 'zh' | 'ar';
 
 export interface Translations {
   [key: string]: {
@@ -14,7 +14,6 @@ export const translations: Translations = {
     pt: 'Navegação',
     zh: '导航',
     ar: 'الملاحة',
-    hi: 'नेविगेशन',
   },
   home: {
     en: 'Home',
@@ -22,7 +21,6 @@ export const translations: Translations = {
     pt: 'Início',
     zh: '首页',
     ar: 'الرئيسية',
-    hi: 'होम',
   },
   catalog: {
     en: 'Catalog',
@@ -30,7 +28,6 @@ export const translations: Translations = {
     pt: 'Catálogo',
     zh: '目录',
     ar: 'الكتالوج',
-    hi: 'कैटलॉग',
   },
   contact: {
     en: 'Contact',
@@ -38,7 +35,6 @@ export const translations: Translations = {
     pt: 'Contato',
     zh: '联系',
     ar: 'اتصل',
-    hi: 'संपर्क',
   },
   about: {
     en: 'About',
@@ -46,7 +42,6 @@ export const translations: Translations = {
     pt: 'Sobre',
     zh: '关于',
     ar: 'عن',
-    hi: 'के बारे में',
   },
 
   // Language
@@ -56,7 +51,6 @@ export const translations: Translations = {
     pt: 'Selecionar Idioma',
     zh: '选择语言',
     ar: 'اختر اللغة',
-    hi: 'भाषा चुनें',
   },
   english: {
     en: 'English',
@@ -64,7 +58,6 @@ export const translations: Translations = {
     pt: 'Inglês',
     zh: '英文',
     ar: 'الإنجليزية',
-    hi: 'अंग्रेजी',
   },
   spanish: {
     en: 'Spanish',
@@ -72,7 +65,6 @@ export const translations: Translations = {
     pt: 'Espanhol',
     zh: '西班牙语',
     ar: 'الإسبانية',
-    hi: 'स्पेनिश',
   },
   portuguese: {
     en: 'Portuguese',
@@ -80,7 +72,6 @@ export const translations: Translations = {
     pt: 'Português',
     zh: '葡萄牙语',
     ar: 'البرتغالية',
-    hi: 'पुर्तगाली',
   },
   chinese: {
     en: 'Chinese',
@@ -88,7 +79,6 @@ export const translations: Translations = {
     pt: 'Chinês',
     zh: '中文',
     ar: 'الصينية',
-    hi: 'चीनी',
   },
   arabic: {
     en: 'Arabic',
@@ -96,15 +86,6 @@ export const translations: Translations = {
     pt: 'Árabe',
     zh: '阿拉伯语',
     ar: 'العربية',
-    hi: 'अरबी',
-  },
-  hindi: {
-    en: 'Hindi',
-    es: 'Hindi',
-    pt: 'Hindi',
-    zh: '印地语',
-    ar: 'اللغة الهندية',
-    hi: 'हिंदी',
   },
 
   // Categories
@@ -114,7 +95,6 @@ export const translations: Translations = {
     pt: 'Todos os Produtos',
     zh: '所有产品',
     ar: 'جميع المنتجات',
-    hi: 'सभी उत्पाद',
   },
   cavity: {
     en: 'Cavity',
@@ -122,7 +102,6 @@ export const translations: Translations = {
     pt: 'Cavidade',
     zh: '空洞',
     ar: 'تجويف',
-    hi: 'गुहा',
   },
   geodes: {
     en: 'Geodes',
@@ -130,7 +109,6 @@ export const translations: Translations = {
     pt: 'Geodos',
     zh: '晶洞',
     ar: 'جيود',
-    hi: 'जिओड्स',
   },
   shapes: {
     en: 'Shapes',
@@ -138,7 +116,6 @@ export const translations: Translations = {
     pt: 'Formas',
     zh: '形状',
     ar: 'أشكال',
-    hi: 'आकार',
   },
   jewelryBox: {
     en: 'Jewelry Box',
@@ -146,7 +123,6 @@ export const translations: Translations = {
     pt: 'Caixa de Joias',
     zh: '珠宝盒',
     ar: 'صندوق المجوهرات',
-    hi: 'गहने बॉक्स',
   },
   amethyst: {
     en: 'Amethyst',
@@ -154,7 +130,6 @@ export const translations: Translations = {
     pt: 'Ametista',
     zh: '紫晶',
     ar: 'الجمشت',
-    hi: 'नीलम',
   },
   hearts: {
     en: 'Hearts',
@@ -162,7 +137,6 @@ export const translations: Translations = {
     pt: 'Corações',
     zh: '心形',
     ar: 'قلوب',
-    hi: 'दिल',
   },
   agates: {
     en: 'Agates',
@@ -170,7 +144,6 @@ export const translations: Translations = {
     pt: 'Ágatas',
     zh: '玛瑙',
     ar: 'العقيق',
-    hi: 'मेनहीर',
   },
   freeforms: {
     en: 'Freeforms',
@@ -178,7 +151,6 @@ export const translations: Translations = {
     pt: 'Formas Livres',
     zh: '自由形式',
     ar: 'أشكال حرة',
-    hi: 'मुक्त रूप',
   },
   others: {
     en: 'Others',
@@ -186,7 +158,6 @@ export const translations: Translations = {
     pt: 'Outros',
     zh: '其他',
     ar: 'آخرون',
-    hi: 'अन्य',
   },
 
   // Sections
@@ -196,7 +167,6 @@ export const translations: Translations = {
     pt: 'Coleção Uruguai',
     zh: '乌拉圭收藏',
     ar: 'مجموعة الأوروغواي',
-    hi: 'उरुग्वे संग्रह',
   },
   gradesSection: {
     en: 'Grand Collection',
@@ -204,7 +174,6 @@ export const translations: Translations = {
     pt: 'Grande Coleção',
     zh: '大型收藏',
     ar: 'المجموعة الكبرى',
-    hi: 'ग्रैंड संग्रह',
   },
   museumMasterpieces: {
     en: 'Museum Masterpieces',
@@ -212,7 +181,6 @@ export const translations: Translations = {
     pt: 'Obras-Primas do Museu',
     zh: '博物馆杰作',
     ar: 'روائع المتحف',
-    hi: 'संग्रहालय मास्टरपीस',
   },
 
   // Product attributes
@@ -222,7 +190,6 @@ export const translations: Translations = {
     pt: 'Dimensões',
     zh: '尺寸',
     ar: 'الأبعاد',
-    hi: 'आयाम',
   },
   size: {
     en: 'Size',
@@ -230,7 +197,6 @@ export const translations: Translations = {
     pt: 'Tamanho',
     zh: '大小',
     ar: 'الحجم',
-    hi: 'आकार',
   },
   small: {
     en: 'Small',
@@ -238,7 +204,6 @@ export const translations: Translations = {
     pt: 'Pequeno',
     zh: '小',
     ar: 'صغير',
-    hi: 'छोटा',
   },
   medium: {
     en: 'Medium',
@@ -246,7 +211,6 @@ export const translations: Translations = {
     pt: 'Médio',
     zh: '中等',
     ar: 'متوسط',
-    hi: 'मध्यम',
   },
   large: {
     en: 'Large',
@@ -254,7 +218,6 @@ export const translations: Translations = {
     pt: 'Grande',
     zh: '大',
     ar: 'كبير',
-    hi: 'बड़ा',
   },
   origin: {
     en: 'Origin',
@@ -262,7 +225,6 @@ export const translations: Translations = {
     pt: 'Origem',
     zh: '原产地',
     ar: 'الأصل',
-    hi: 'उत्पत्ति',
   },
 
   // Buttons and CTAs
@@ -272,7 +234,6 @@ export const translations: Translations = {
     pt: 'Consultar Agora',
     zh: '立即咨询',
     ar: 'استفسر الآن',
-    hi: 'अभी पूछताछ करें',
   },
   contactUs: {
     en: 'Contact Us',
@@ -280,7 +241,6 @@ export const translations: Translations = {
     pt: 'Entre em contato',
     zh: '联系我们',
     ar: 'اتصل بنا',
-    hi: 'हमसे संपर्क करें',
   },
   viewMore: {
     en: 'View More',
@@ -288,7 +248,6 @@ export const translations: Translations = {
     pt: 'Ver Mais',
     zh: '查看更多',
     ar: 'عرض المزيد',
-    hi: 'और देखें',
   },
   viewGallery: {
     en: 'View Gallery',
@@ -296,7 +255,6 @@ export const translations: Translations = {
     pt: 'Ver Galeria',
     zh: '查看库',
     ar: 'عرض المعرض',
-    hi: 'गैलरी देखें',
   },
 
   // Disclaimer and messages
@@ -306,7 +264,6 @@ export const translations: Translations = {
     pt: 'Estas são imagens de referência. Para comprar ou consultar a disponibilidade de produtos, entre em contato através do WhatsApp ou nosso site principal.',
     zh: '这些是参考图像。如需购买或咨询产品可用性,请通过WhatsApp或我们的主网站与我们联系。',
     ar: 'هذه صور مرجعية. للشراء أو الاستفسار عن توفر المنتج، يرجى التواصل معنا عبر WhatsApp أو موقعنا الرئيسي.',
-    hi: 'ये संदर्भ छवियां हैं। खरीदारी के लिए या उत्पाद उपलब्धता के बारे में पूछताछ के लिए, कृपया हमारे WhatsApp या मुख्य वेबसाइट के माध्यम से हमसे संपर्क करें।',
   },
   naturalUniqueness: {
     en: 'Each amethyst and agate is a unique creation of nature. Colors, formations, and characteristics vary naturally from piece to piece, making every stone one-of-a-kind.',
@@ -314,7 +271,6 @@ export const translations: Translations = {
     pt: 'Cada ametista e ágata é uma criação única da natureza. As cores, formações e características variam naturalmente de peça para peça, tornando cada pedra única.',
     zh: '每个紫晶和玛瑙都是大自然的独特创造。颜色、形成和特征从一件变化到另一件自然变化，使每块石头都是独一无二的。',
     ar: 'كل عقيق وعقيق هو خلق فريد من نوعه من الطبيعة. تختلف الألوان والتشكيلات والخصائص بشكل طبيعي من قطعة إلى أخرى، مما يجعل كل حجر فريدًا من نوعه.',
-    hi: 'प्रत्येक अमेथिस्ट और मेनहीर प्रकृति की एक अद्वितीय रचना है। रंग, संरचनाएं और विशेषताएं प्राकृतिक रूप से एक टुकड़े से दूसरे में भिन्न होती हैं, जिससे हर पत्थर अद्वितीय हो जाता है।',
   },
 
   // Footer
@@ -324,7 +280,6 @@ export const translations: Translations = {
     pt: 'Rodapé',
     zh: '页脚',
     ar: 'التذييل',
-    hi: 'पाद लेख',
   },
   allRightsReserved: {
     en: 'All rights reserved',
@@ -332,7 +287,6 @@ export const translations: Translations = {
     pt: 'Todos os direitos reservados',
     zh: '版权所有',
     ar: 'جميع الحقوق محفوظة',
-    hi: 'सर्वाधिकार सुरक्षित',
   },
 
   // Common
@@ -342,7 +296,6 @@ export const translations: Translations = {
     pt: 'Carregando...',
     zh: '加载中...',
     ar: 'جاري التحميل...',
-    hi: 'लोड हो रहा है...',
   },
   error: {
     en: 'Error',
@@ -350,7 +303,6 @@ export const translations: Translations = {
     pt: 'Erro',
     zh: '错误',
     ar: 'خطأ',
-    hi: 'त्रुटि',
   },
   noProducts: {
     en: 'No products found',
@@ -358,7 +310,6 @@ export const translations: Translations = {
     pt: 'Nenhum produto encontrado',
     zh: '未找到产品',
     ar: 'لم يتم العثور على منتجات',
-    hi: 'कोई उत्पाद नहीं मिला',
   },
 
   // Home Page
@@ -368,7 +319,6 @@ export const translations: Translations = {
     pt: 'CATÁLOGO',
     zh: '目录',
     ar: 'فهرس',
-    hi: 'कैटलॉग',
   },
   museumQuality: {
     en: 'Museum-Quality Uruguayan Gemstones',
@@ -376,7 +326,6 @@ export const translations: Translations = {
     pt: 'Pedras Preciosas Uruguaias de Qualidade de Museu',
     zh: '博物馆级乌拉圭宝石',
     ar: 'أحجار كريمة أوروغوايية بجودة متحف',
-    hi: 'संग्रहालय-गुणवत्ता उरुग्वे रत्न',
   },
   directSource: {
     en: 'Your direct source to Uruguayan amethysts. Family business dedicated to extracting, processing and exporting amethysts, agates and citrines from Artigas mines since 1992',
@@ -384,7 +333,6 @@ export const translations: Translations = {
     pt: 'Sua fonte direta de ametistas uruguaias. Negócio familiar dedicado à extração, processamento e exportação de ametistas, ágatas e citrinas das minas de Artigas desde 1992',
     zh: '您的乌拉圭紫水晶直接来源。自1992年以来，一个致力于从阿蒂加斯矿山开采、加工和出口紫水晶、玛瑙和黄晶的家族企业',
     ar: 'مصدرك المباشر لأحجار الجمشت الأوروغوايية. عمل عائلي مكرس لاستخراج ومعالجة وتصدير أحجار الجمشت والعقيق والسيترين من مناجم أرتيغاس منذ 1992',
-    hi: 'उरुग्वे एमेथिस्ट का आपका सीधा स्रोत। 1992 के बाद से अर्टिगास खानों से एमेथिस्ट, एगेट्स और सिट्रिन निकालने, प्रसंस्करण और निर्यात करने के लिए समर्पित एक पारिवारिक व्यवसाय',
   },
   exploreCollection: {
     en: 'Explore Collection',
@@ -392,7 +340,6 @@ export const translations: Translations = {
     pt: 'Explorar Coleção',
     zh: '探索收藏',
     ar: 'استكشف المجموعة',
-    hi: 'संग्रह का अन्वेषण करें',
   },
   ourStory: {
     en: 'Our Story',
@@ -400,7 +347,6 @@ export const translations: Translations = {
     pt: 'Nossa História',
     zh: '我们的故事',
     ar: 'قصتنا',
-    hi: 'हमारी कहानी',
   },
   yearsExperience: {
     en: 'Years Experience',
@@ -408,7 +354,6 @@ export const translations: Translations = {
     pt: 'Anos de Experiência',
     zh: '年的经验',
     ar: 'سنوات من الخبرة',
-    hi: 'वर्षों का अनुभव',
   },
   collectorsWorldwide: {
     en: 'Collectors Worldwide',
@@ -416,7 +361,6 @@ export const translations: Translations = {
     pt: 'Colecionadores em Todo o Mundo',
     zh: '世界各地的收藏家',
     ar: 'جامعي الأشياء في جميع أنحاء العالم',
-    hi: 'दुनिया भर में संग्राहक',
   },
   directFromSource: {
     en: 'Direct from Source',
@@ -424,7 +368,6 @@ export const translations: Translations = {
     pt: 'Direto da Fonte',
     zh: '直接来自产源',
     ar: 'مباشرة من المصدر',
-    hi: 'सीधे स्रोत से',
   },
   extraordinaryGeodes: {
     en: 'Extraordinary cathedral geodes of exceptional size and quality, curated for luxury hotels, galleries, and prestigious private collections',
@@ -432,7 +375,6 @@ export const translations: Translations = {
     pt: 'Geodos catedral extraordinários de tamanho e qualidade excepcionais, curados para hotéis de luxo, galerias e coleções privadas prestigiosas',
     zh: '大教堂晶洞非凡的规模和质量，为豪华酒店、美术馆和著名的私人收藏而精选',
     ar: 'جيود كاتدرائية غير عادية ذات حجم وجودة استثنائيين، منسقة للفنادق الفاخرة والمعارض والمجموعات الخاصة المرموقة',
-    hi: 'असाधारण आकार और गुणवत्ता की असाधारण कैथेड्रल जिओड्स, विलासवान होटलों, गैलरी और प्रतिष्ठित निजी संग्रह के लिए क्यूरेट किया गया',
   },
   viewFullCollection: {
     en: 'View Full Collection',
@@ -440,7 +382,6 @@ export const translations: Translations = {
     pt: 'Ver Coleção Completa',
     zh: '查看完整收藏',
     ar: 'عرض المجموعة الكاملة',
-    hi: 'पूर्ण संग्रह देखें',
   },
   barriosDifference: {
     en: 'The Barrios Difference',
@@ -448,7 +389,6 @@ export const translations: Translations = {
     pt: 'A Diferença Barrios',
     zh: '巴里奥斯的区别',
     ar: 'الفرق بين بارييوس',
-    hi: 'बैरिओस अंतर',
   },
   familyDream: {
     en: 'A family dream turned reality. Passionate about discovering unique minerals while committed to quality products without harming the environment',
@@ -456,7 +396,6 @@ export const translations: Translations = {
     pt: 'Um sonho da família que se tornou realidade. Apaixonados por descobrir minerais únicos enquanto nos comprometemos com produtos de qualidade sem prejudicar o meio ambiente',
     zh: '一个家族梦想变成现实。热衷于发现独特矿物，同时致力于质量产品而不伤害环境',
     ar: 'حلم عائلي أصبح حقيقة. شغوفون باكتشاف المعادن الفريدة ملتزمون بمنتجات عالية الجودة دون الإضرار بالبيئة',
-    hi: 'एक पारिवारिक सपना वास्तविकता बन गया। अद्वितीय खनिजों की खोज के बारे में भावुक जबकि वातावरण को नुकसान पहुंचाए बिना गुणवत्ता वाले उत्पादों के लिए प्रतिबद्ध',
   },
   directFromMines: {
     en: 'Direct from Our Mines',
@@ -464,7 +403,6 @@ export const translations: Translations = {
     pt: 'Direto de Nossas Minas',
     zh: '直接来自我们的矿山',
     ar: 'مباشرة من مناجمنا',
-    hi: 'सीधे हमारी खानों से',
   },
   extractProcess: {
     en: 'We extract, process and export directly from the renowned Catalán region in Artigas, Uruguay - home to the world\'s finest amethysts.',
@@ -472,7 +410,6 @@ export const translations: Translations = {
     pt: 'Extraímos, processamos e exportamos diretamente da renomada região de Catalán em Artigas, Uruguai - lar das ametistas mais finas do mundo.',
     zh: '我们直接从乌拉圭阿蒂加斯著名的加泰隆地区开采、加工和出口 - 世界上最好的紫水晶的故乡。',
     ar: 'نحن نستخرج ونعالج ونصدر مباشرة من منطقة كاتالان الشهيرة في أرتيغاس، أوروغواي - موطن أفضل أحجار الجمشت في العالم.',
-    hi: 'हम सीधे उरुग्वे के अर्टिगास में प्रसिद्ध कैटलन क्षेत्र से निकालते, संसाधित और निर्यात करते हैं - दुनिया के सबसे बेहतरीन एमेथिस्ट का घर।',
   },
   familyBusiness: {
     en: 'Family Business Since 1992',
@@ -480,7 +417,6 @@ export const translations: Translations = {
     pt: 'Negócio Familiar Desde 1992',
     zh: '1992年以来的家族企业',
     ar: 'عمل عائلي منذ عام 1992',
-    hi: '1992 के बाद से पारिवारिक व्यवसाय',
   },
   familyPassion: {
     en: 'Three decades of passion discovering unique minerals. From humble beginnings to serving collectors worldwide with commitment to quality.',
@@ -488,7 +424,6 @@ export const translations: Translations = {
     pt: 'Três décadas de paixão descobrindo minerais únicos. Desde modestos começos até servir colecionadores em todo o mundo com comprometimento com a qualidade.',
     zh: '三十年对发现独特矿物的热情。从卑微的开始到为全世界的收藏家服务，致力于质量。',
     ar: 'ثلاثة عقود من الشغف باكتشاف المعادن الفريدة. من البدايات المتواضعة إلى خدمة جامعي الأشياء في جميع أنحاء العالم مع الالتزام بالجودة.',
-    hi: 'अद्वितीय खनिजों की खोज में तीन दशक का जुनून। विनम्र शुरुआत से लेकर गुणवत्ता की प्रतिबद्धता के साथ दुनिया भर में कलेक्टरों की सेवा करना।',
   },
   globalReach: {
     en: 'Global Reach',
@@ -496,7 +431,6 @@ export const translations: Translations = {
     pt: 'Alcance Global',
     zh: '全球范围',
     ar: 'الوصول العالمي',
-    hi: 'वैश्विक पहुंच',
   },
   exportingTo: {
     en: 'Exporting premium amethysts, agates and citrines to Germany, China, Brazil, USA and collectors worldwide.',
@@ -504,7 +438,6 @@ export const translations: Translations = {
     pt: 'Exportando ametistas, ágatas e citrinas premium para Alemanha, China, Brasil, EUA e colecionadores em todo o mundo.',
     zh: '向德国、中国、巴西、美国和世界各地的收藏家出口优质紫水晶、玛瑙和黄晶。',
     ar: 'تصدير أحجار الجمشت والعقيق والسيترين الفاخرة إلى ألمانيا والصين والبرازيل والولايات المتحدة وجامعي الأشياء في جميع أنحاء العالم.',
-    hi: 'जर्मनी, चीन, ब्राजील, यूएसए और दुनिया भर के कलेक्टरों को प्रीमियम एमेथिस्ट, एगेट्स और सिट्रिन निर्यात करना।',
   },
   readyToDiscover: {
     en: 'Ready to Discover Your Perfect Piece?',
@@ -512,7 +445,6 @@ export const translations: Translations = {
     pt: 'Pronto para Descobrir Sua Peça Perfeita?',
     zh: '准备好发现你的完美作品了吗？',
     ar: 'هل أنت مستعد لاكتشاف قطعتك المثالية؟',
-    hi: 'अपना सही टुकड़ा खोजने के लिए तैयार?',
   },
   browseComplete: {
     en: 'Browse our complete online catalogue or contact us directly. We work closely with collectors, designers and businesses worldwide.',
@@ -520,7 +452,255 @@ export const translations: Translations = {
     pt: 'Navegue por nosso catálogo completo online ou entre em contato conosco. Trabalhamos em estreita colaboração com colecionadores, designers e empresas em todo o mundo.',
     zh: '浏览我们完整的在线目录或直接与我们联系。我们与全世界的收藏家、设计师和企业密切合作。',
     ar: 'تصفح كتالوجنا الكامل عبر الإنترنت أو اتصل بنا مباشرة. نعمل بشكل وثيق مع جامعي الأشياء والمصممين والشركات في جميع أنحاء العالم.',
-    hi: 'हमारी पूर्ण ऑनलाइन कैटलॉग ब्राउज़ करें या सीधे हमसे संपर्क करें। हम दुनिया भर के कलेक्टरों, डिज़ाइनरों और व्यवसायों के साथ मिलकर काम करते हैं।',
+  },
+
+  // About Page
+  aboutPageTitle: {
+    en: 'Our Story',
+    es: 'Nuestra Historia',
+    pt: 'Nossa História',
+    zh: '我们的故事',
+    ar: 'قصتنا',
+  },
+  aboutPageSubtitle: {
+    en: 'A family legacy of Uruguayan gemstone excellence',
+    es: 'Un legado familiar de excelencia en gemas uruguayas',
+    pt: 'Um legado familiar de excelência em gemas uruguaias',
+    zh: '乌拉圭宝石卓越的家族传承',
+    ar: 'إرث عائلي من التميز في الأحجار الكريمة الأوروغوايية',
+  },
+  fromMinesTitle: {
+    en: 'From the Mines of Artigas',
+    es: 'De las Minas de Artigas',
+    pt: 'Das Minas de Artigas',
+    zh: '来自阿蒂加斯的矿山',
+    ar: 'من مناجم أرتيجاس',
+  },
+  fromMinesPara1: {
+    en: 'Artigas, Uruguay is world-renowned for producing some of the finest amethysts and agates on Earth. The unique geological conditions in this region create gemstones of exceptional quality and vibrant color.',
+    es: 'Artigas, Uruguay es mundialmente reconocido por producir algunas de las amatistas y ágatas más finas de la Tierra. Las condiciones geológicas únicas de esta región crean gemas de calidad excepcional y color vibrante.',
+    pt: 'Artigas, Uruguai é mundialmente reconhecido por produzir algumas das melhores ametistas e ágatas da Terra. As condições geológicas únicas desta região criam gemas de qualidade excepcional e cor vibrante.',
+    zh: '乌拉圭阿蒂加斯以生产地球上最优质的紫水晶和玛瑙而闻名于世。该地区独特的地质条件创造出品质卓越、色彩鲜艳的宝石。',
+    ar: 'تشتهر أرتيجاس في أوروغواي عالميًا بإنتاج بعض من أفضل أحجار الجمشت والعقيق على الأرض. تخلق الظروف الجيولوجية الفريدة في هذه المنطقة أحجارًا كريمة ذات جودة استثنائية وألوان نابضة بالحياة.',
+  },
+  fromMinesPara2: {
+    en: 'For generations, the mines of Artigas have yielded treasures that captivate collectors and enthusiasts worldwide. The deep purple amethysts and intricate banded agates from this region are prized for their natural beauty and geological significance.',
+    es: 'Durante generaciones, las minas de Artigas han producido tesoros que cautivan a coleccionistas y entusiastas en todo el mundo. Las amatistas púrpura profundo y las ágatas con bandas intrincadas de esta región son valoradas por su belleza natural y significado geológico.',
+    pt: 'Por gerações, as minas de Artigas têm produzido tesouros que cativam colecionadores e entusiastas em todo o mundo. As ametistas roxas profundas e as ágatas com faixas intrincadas desta região são valorizadas por sua beleza natural e significado geológico.',
+    zh: '世世代代以来，阿蒂加斯的矿山一直出产着吸引全球收藏家和爱好者的宝藏。该地区深紫色的紫水晶和复杂带状玛瑙因其自然美感和地质意义而备受珍视。',
+    ar: 'لأجيال عديدة، أنتجت مناجم أرتيجاس كنوزًا تأسر جامعي المقتنيات والهواة في جميع أنحاء العالم. يتم تقدير أحجار الجمشت الأرجوانية العميقة والعقيق ذو النطاقات المعقدة من هذه المنطقة لجمالها الطبيعي وأهميتها الجيولوجية.',
+  },
+  familyTraditionTitle: {
+    en: 'A Family Tradition',
+    es: 'Una Tradición Familiar',
+    pt: 'Uma Tradição Familiar',
+    zh: '家族传统',
+    ar: 'تقليد عائلي',
+  },
+  familyTraditionPara1: {
+    en: 'Barrio Amethysts is a family-owned business with deep roots in Uruguay\'s gemstone industry. Our expertise in selecting and presenting the finest specimens has been passed down through generations.',
+    es: 'Barrio Amethysts es un negocio familiar con raíces profundas en la industria de gemas de Uruguay. Nuestra experiencia en seleccionar y presentar los mejores especímenes se ha transmitido a través de generaciones.',
+    pt: 'Barrio Amethysts é um negócio familiar com raízes profundas na indústria de gemas do Uruguai. Nossa experiência em selecionar e apresentar os melhores espécimes foi passada através de gerações.',
+    zh: 'Barrio Amethysts 是一家在乌拉圭宝石行业根深蒂固的家族企业。我们在选择和展示最优质标本方面的专业知识代代相传。',
+    ar: 'Barrio Amethysts هي شركة عائلية لها جذور عميقة في صناعة الأحجار الكريمة في أوروغواي. تم نقل خبرتنا في اختيار وعرض أفضل العينات عبر الأجيال.',
+  },
+  familyTraditionPara2: {
+    en: 'Every piece in our collection is handpicked with the same care and attention to quality that has defined our family for decades. We take pride in sharing these natural wonders with the world.',
+    es: 'Cada pieza de nuestra colección es seleccionada a mano con el mismo cuidado y atención a la calidad que ha definido a nuestra familia durante décadas. Nos enorgullece compartir estas maravillas naturales con el mundo.',
+    pt: 'Cada peça da nossa coleção é escolhida a dedo com o mesmo cuidado e atenção à qualidade que definiu nossa família por décadas. Temos orgulho de compartilhar essas maravilhas naturais com o mundo.',
+    zh: '我们收藏中的每一件作品都经过精心挑选，秉承数十年来定义我们家族的对品质的同样关注和细心。我们为与世界分享这些自然奇观而自豪。',
+    ar: 'يتم اختيار كل قطعة في مجموعتنا يدويًا بنفس العناية والاهتمام بالجودة التي ميزت عائلتنا لعقود. نفخر بمشاركة هذه العجائب الطبيعية مع العالم.',
+  },
+  expandingDubaiTitle: {
+    en: 'Expanding to Dubai',
+    es: 'Expandiendo a Dubái',
+    pt: 'Expandindo para Dubai',
+    zh: '扩展到迪拜',
+    ar: 'التوسع إلى دبي',
+  },
+  expandingDubaiPara1: {
+    en: 'We are thrilled to bring our collection to Dubai, one of the world\'s premier destinations for luxury and fine craftsmanship. This expansion allows us to share the beauty of Uruguayan gemstones with a new audience.',
+    es: 'Estamos emocionados de traer nuestra colección a Dubái, uno de los principales destinos del mundo para el lujo y la artesanía fina. Esta expansión nos permite compartir la belleza de las gemas uruguayas con una nueva audiencia.',
+    pt: 'Estamos entusiasmados em trazer nossa coleção para Dubai, um dos principais destinos do mundo para luxo e artesanato refinado. Esta expansão nos permite compartilhar a beleza das gemas uruguaias com um novo público.',
+    zh: '我们很高兴将我们的收藏带到迪拜，这是世界顶级奢侈品和精湛工艺的目的地之一。这次扩展使我们能够与新观众分享乌拉圭宝石之美。',
+    ar: 'نحن متحمسون لإحضار مجموعتنا إلى دبي، إحدى الوجهات الرائدة في العالم للرفاهية والحرفية الراقية. يتيح لنا هذا التوسع مشاركة جمال الأحجار الكريمة الأوروغوايية مع جمهور جديد.',
+  },
+  expandingDubaiPara2: {
+    en: 'Our commitment to quality, authenticity, and exceptional service remains unchanged as we establish our presence in the Middle East.',
+    es: 'Nuestro compromiso con la calidad, la autenticidad y el servicio excepcional permanece sin cambios mientras establecemos nuestra presencia en el Medio Oriente.',
+    pt: 'Nosso compromisso com qualidade, autenticidade e serviço excepcional permanece inalterado enquanto estabelecemos nossa presença no Oriente Médio.',
+    zh: '随着我们在中东建立业务，我们对质量、真实性和卓越服务的承诺保持不变。',
+    ar: 'يبقى التزامنا بالجودة والأصالة والخدمة الاستثنائية دون تغيير مع ترسيخ وجودنا في الشرق الأوسط.',
+  },
+  visitDubaiLocation: {
+    en: 'Visit Our Dubai Location',
+    es: 'Visita Nuestra Ubicación en Dubái',
+    pt: 'Visite Nossa Localização em Dubai',
+    zh: '访问我们的迪拜位置',
+    ar: 'قم بزيارة موقعنا في دبي',
+  },
+  ourCommitmentTitle: {
+    en: 'Our Commitment',
+    es: 'Nuestro Compromiso',
+    pt: 'Nosso Compromisso',
+    zh: '我们的承诺',
+    ar: 'التزامنا',
+  },
+  ourCommitmentSubtitle: {
+    en: 'Every gemstone we offer meets our exacting standards for quality and beauty',
+    es: 'Cada gema que ofrecemos cumple con nuestros exigentes estándares de calidad y belleza',
+    pt: 'Cada gema que oferecemos atende aos nossos rigorosos padrões de qualidade e beleza',
+    zh: '我们提供的每一颗宝石都符合我们对质量和美感的严格标准',
+    ar: 'كل حجر كريم نقدمه يلبي معاييرنا الصارمة للجودة والجمال',
+  },
+  authenticityTitle: {
+    en: 'Authenticity',
+    es: 'Autenticidad',
+    pt: 'Autenticidade',
+    zh: '真实性',
+    ar: 'الأصالة',
+  },
+  authenticityDesc: {
+    en: 'Every piece is genuinely sourced from the mines of Artigas, Uruguay, with complete traceability.',
+    es: 'Cada pieza proviene genuinamente de las minas de Artigas, Uruguay, con total trazabilidad.',
+    pt: 'Cada peça é genuinamente proveniente das minas de Artigas, Uruguai, com rastreabilidade completa.',
+    zh: '每件作品均真正来自乌拉圭阿蒂加斯的矿山，具有完整的可追溯性。',
+    ar: 'كل قطعة مصدرها الأصلي من مناجم أرتيجاس في أوروغواي، مع إمكانية التتبع الكامل.',
+  },
+  qualityTitle: {
+    en: 'Quality',
+    es: 'Calidad',
+    pt: 'Qualidade',
+    zh: '质量',
+    ar: 'الجودة',
+  },
+  qualityDesc: {
+    en: 'We select only the finest specimens, ensuring exceptional color, clarity, and natural formation.',
+    es: 'Seleccionamos solo los mejores especímenes, asegurando color, claridad y formación natural excepcionales.',
+    pt: 'Selecionamos apenas os melhores espécimes, garantindo cor, clareza e formação natural excepcionais.',
+    zh: '我们只选择最优质的标本，确保出色的颜色、清晰度和自然形成。',
+    ar: 'نختار فقط أفضل العينات، مما يضمن اللون والوضوح والتكوين الطبيعي الاستثنائي.',
+  },
+  expertiseTitle: {
+    en: 'Expertise',
+    es: 'Experiencia',
+    pt: 'Expertise',
+    zh: '专业知识',
+    ar: 'الخبرة',
+  },
+  expertiseDesc: {
+    en: 'Generations of experience guide our selection process, guaranteeing museum-quality pieces.',
+    es: 'Generaciones de experiencia guían nuestro proceso de selección, garantizando piezas de calidad de museo.',
+    pt: 'Gerações de experiência orientam nosso processo de seleção, garantindo peças de qualidade de museu.',
+    zh: '世代经验指导我们的选择过程，保证博物馆级别的作品。',
+    ar: 'أجيال من الخبرة توجه عملية الاختيار لدينا، مما يضمن قطعًا بجودة المتاحف.',
+  },
+
+  // Contact Page
+  contactPageTitle: {
+    en: 'Get in Touch',
+    es: 'Ponte en Contacto',
+    pt: 'Entre em Contato',
+    zh: '联系我们',
+    ar: 'تواصل معنا',
+  },
+  contactPageSubtitle: {
+    en: 'We\'d love to hear from you about our collection',
+    es: 'Nos encantaría saber de ti sobre nuestra colección',
+    pt: 'Gostaríamos de ouvir de você sobre nossa coleção',
+    zh: '我们很乐意听取您对我们收藏的意见',
+    ar: 'نود أن نسمع منك عن مجموعتنا',
+  },
+  sendMessage: {
+    en: 'Send us a Message',
+    es: 'Envíanos un Mensaje',
+    pt: 'Envie-nos uma Mensagem',
+    zh: '给我们留言',
+    ar: 'أرسل لنا رسالة',
+  },
+  thankYouMessage: {
+    en: 'Thank you for your message!',
+    es: '¡Gracias por tu mensaje!',
+    pt: 'Obrigado pela sua mensagem!',
+    zh: '感谢您的留言！',
+    ar: 'شكراً لرسالتك!',
+  },
+  getBackSoon: {
+    en: 'We\'ll get back to you soon.',
+    es: 'Te responderemos pronto.',
+    pt: 'Entraremos em contato em breve.',
+    zh: '我们会尽快回复您。',
+    ar: 'سنعود إليك قريباً.',
+  },
+  nameLabel: {
+    en: 'Name',
+    es: 'Nombre',
+    pt: 'Nome',
+    zh: '姓名',
+    ar: 'الاسم',
+  },
+  emailLabel: {
+    en: 'Email',
+    es: 'Correo Electrónico',
+    pt: 'E-mail',
+    zh: '电子邮件',
+    ar: 'البريد الإلكتروني',
+  },
+  messageLabel: {
+    en: 'Message',
+    es: 'Mensaje',
+    pt: 'Mensagem',
+    zh: '留言',
+    ar: 'الرسالة',
+  },
+  sendMessageButton: {
+    en: 'Send Message',
+    es: 'Enviar Mensaje',
+    pt: 'Enviar Mensagem',
+    zh: '发送消息',
+    ar: 'إرسال الرسالة',
+  },
+  contactInfoTitle: {
+    en: 'Contact Information',
+    es: 'Información de Contacto',
+    pt: 'Informações de Contato',
+    zh: '联系信息',
+    ar: 'معلومات الاتصال',
+  },
+  whatsappLabel: {
+    en: 'WhatsApp',
+    es: 'WhatsApp',
+    pt: 'WhatsApp',
+    zh: 'WhatsApp',
+    ar: 'واتساب',
+  },
+  instagramLabel: {
+    en: 'Instagram',
+    es: 'Instagram',
+    pt: 'Instagram',
+    zh: 'Instagram',
+    ar: 'إنستغرام',
+  },
+  locationLabel: {
+    en: 'Location',
+    es: 'Ubicación',
+    pt: 'Localização',
+    zh: '位置',
+    ar: 'الموقع',
+  },
+  dubaiUAE: {
+    en: 'Dubai, UAE',
+    es: 'Dubái, EAU',
+    pt: 'Dubai, EAU',
+    zh: '迪拜，阿联酋',
+    ar: 'دبي، الإمارات',
+  },
+  visitByAppointment: {
+    en: 'Visit by appointment',
+    es: 'Visita con cita previa',
+    pt: 'Visite com hora marcada',
+    zh: '需预约参观',
+    ar: 'الزيارة بموعد مسبق',
   },
 };
 
@@ -542,5 +722,4 @@ export const languages: { code: Language; name: string; flag: string; rtl: boole
   { code: 'pt', name: 'Português', flag: '🇧🇷', rtl: false },
   { code: 'zh', name: '中文', flag: '🇨🇳', rtl: false },
   { code: 'ar', name: 'العربية', flag: '🇸🇦', rtl: true },
-  { code: 'hi', name: 'हिन्दी', flag: '🇮🇳', rtl: false },
 ];

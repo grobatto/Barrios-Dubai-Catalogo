@@ -11,35 +11,38 @@ const config: Config = {
       colors: {
         // Brand Colors - Luxury Amethyst Theme
         primary: {
-          50: "#FAF5FF",
-          100: "#F3E8FF",
-          200: "#E9D5FF",
-          300: "#D8B4FE",
-          400: "#C084FC",
-          500: "#A855F7",
-          600: "#9333EA",  // Main purple
-          700: "#7E22CE",
-          800: "#6B21A8",
-          900: "#581C87",
+          50: "#F8F5F9",
+          100: "#F0EAF3",
+          200: "#E1D5E7",
+          300: "#D2C0DB",
+          400: "#B396C3",
+          500: "#946CAB",
+          600: "#7C4988",  // Main purple - NEW BRAND COLOR
+          700: "#653A6E",
+          800: "#4E2C54",
+          900: "#371E3A",
         },
         gold: {
-          50: "#FFF FEF7",
-          100: "#FEFCE8",
-          200: "#FEF9C3",
-          300: "#FEF08A",
-          400: "#FDE047",
-          500: "#F59E0B",  // Accent gold
-          600: "#D97706",
-          700: "#B45309",
-          800: "#92400E",
-          900: "#78350F",
+          50: "#FAF9F7",
+          100: "#F5F3EF",
+          200: "#EBE7DF",
+          300: "#E1DBCF",
+          400: "#CDC3AF",
+          500: "#B9AB8F",
+          600: "#B79E6A",  // Accent gold - NEW BRAND COLOR
+          700: "#8F7D52",
+          800: "#6A5D3E",
+          900: "#453D2A",
         },
-        background: "#FFFFFF",
+        background: "#F7F5F5",  // Off-white - NEW BRAND COLOR
         cream: "#FEFEFE",
+        "off-white": "#F7F5F5",  // NEW: Off-white background
         "text-primary": "#1F2937",
         "text-secondary": "#4B5563",
         "text-light": "#9CA3AF",
         "border-light": "#F3F4F6",
+        "accent-primary": "#7C4988",  // NEW: Primary accent
+        "accent-gold": "#B79E6A",  // NEW: Gold accent
       },
       fontFamily: {
         sans: ["Inter", "-apple-system", "BlinkMacSystemFont", "Helvetica Neue", "sans-serif"],

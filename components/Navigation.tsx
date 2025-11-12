@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { t } from '@/lib/translations';
@@ -17,14 +18,19 @@ export default function Navigation() {
   ];
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 bg-white border-b border-border-light">
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-black border-b border-gray-800">
       <div className="container-custom">
-        <div className="flex items-center justify-between h-16">
+        <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="flex-shrink-0">
-            <h1 className="text-sm md:text-base font-medium tracking-wider text-text-primary hover:text-primary-600 transition-colors">
-              BARRIOS AMETHYSTS
-            </h1>
+            <Image
+              src="/images/barrios-logo.jpeg"
+              alt="Barrios Amethysts"
+              width={60}
+              height={60}
+              className="hover:opacity-80 transition-opacity"
+              priority
+            />
           </Link>
 
           {/* Desktop Navigation */}
@@ -33,7 +39,7 @@ export default function Navigation() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-sm text-text-secondary hover:text-text-primary transition-colors"
+                className="text-sm text-white hover:text-accent-gold transition-colors"
               >
                 {t(link.label, language)}
               </Link>
@@ -46,7 +52,7 @@ export default function Navigation() {
             <LanguageSelector />
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className="p-2 text-text-primary"
+              className="p-2 text-white"
               aria-label="Toggle menu"
             >
             <svg
@@ -71,14 +77,14 @@ export default function Navigation() {
 
       {/* Mobile Menu */}
       {isMobileMenuOpen && (
-        <div className="md:hidden bg-white border-t border-border-light">
+        <div className="md:hidden bg-black border-t border-gray-800">
           <div className="container-custom py-4 space-y-4">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
                 onClick={() => setIsMobileMenuOpen(false)}
-                className="block text-sm text-text-secondary hover:text-text-primary transition-colors"
+                className="block text-sm text-white hover:text-accent-gold transition-colors"
               >
                 {t(link.label, language)}
               </Link>

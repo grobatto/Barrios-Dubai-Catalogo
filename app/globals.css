@@ -48,7 +48,7 @@
 
   /* Accessibility: Focus visible for keyboard navigation */
   :focus-visible {
-    outline: 3px solid #9333ea;
+    outline: 3px solid #7C4988;
     outline-offset: 2px;
   }
 

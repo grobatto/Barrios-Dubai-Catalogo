@@ -6,12 +6,12 @@ export default function Footer() {
   const instagramHandle = '@barriosamethysts';
 
   return (
-    <footer className="bg-text-primary text-white py-16">
+    <footer className="bg-black text-white py-16">
       <div className="container-custom">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand */}
           <div>
-            <h3 className="font-serif text-2xl mb-4">BARRIOS AMETHYSTS</h3>
+            <h3 className="font-serif text-2xl mb-4 text-accent-gold">BARRIOS AMETHYSTS</h3>
             <p className="text-gray-400 text-sm leading-relaxed">
               Premium Uruguayan gemstones from the mines of Artigas. Now available in Dubai.
             </p>
@@ -19,7 +19,7 @@ export default function Footer() {
 
           {/* Quick Links */}
           <div>
-            <h4 className="font-sans text-sm uppercase tracking-wider mb-4">Quick Links</h4>
+            <h4 className="font-sans text-sm uppercase tracking-wider mb-4 text-white">Quick Links</h4>
             <ul className="space-y-2">
               <li>
                 <Link
@@ -58,7 +58,7 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h4 className="font-sans text-sm uppercase tracking-wider mb-4">Get in Touch</h4>
+            <h4 className="font-sans text-sm uppercase tracking-wider mb-4 text-white">Get in Touch</h4>
             <ul className="space-y-3">
               <li>
                 <a
@@ -102,7 +102,7 @@ export default function Footer() {
         </div>
 
         {/* Copyright */}
-        <div className="mt-12 pt-8 border-t border-gray-800 text-center">
+        <div className="mt-12 pt-8 border-t border-gray-900 text-center">
           <p className="text-gray-500 text-sm">
             &copy; {new Date().getFullYear()} Barrios Amethysts. All rights reserved.
           </p>

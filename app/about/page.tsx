@@ -4,8 +4,11 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { t } from '@/lib/translations';
 
 export default function AboutPage() {
+  const { language } = useLanguage();
   return (
     <>
       <Navigation />
@@ -20,10 +23,10 @@ export default function AboutPage() {
               transition={{ duration: 0.8 }}
             >
               <h1 className="font-serif text-5xl md:text-7xl text-text-primary mb-6">
-                Our Story
+                {t('aboutPageTitle', language)}
               </h1>
               <p className="text-lg md:text-xl text-text-secondary">
-                A family legacy of Uruguayan gemstone excellence
+                {t('aboutPageSubtitle', language)}
               </p>
             </motion.div>
           </div>
@@ -40,18 +43,13 @@ export default function AboutPage() {
                 transition={{ duration: 0.8 }}
               >
                 <h2 className="font-serif text-4xl text-text-primary mb-6">
-                  From the Mines of Artigas
+                  {t('fromMinesTitle', language)}
                 </h2>
                 <p className="text-lg text-text-secondary leading-relaxed mb-4">
-                  Artigas, Uruguay is world-renowned for producing some of the finest
-                  amethysts and agates on Earth. The unique geological conditions
-                  in this region create gemstones of exceptional quality and vibrant color.
+                  {t('fromMinesPara1', language)}
                 </p>
                 <p className="text-lg text-text-secondary leading-relaxed">
-                  For generations, the mines of Artigas have yielded treasures that
-                  captivate collectors and enthusiasts worldwide. The deep purple
-                  amethysts and intricate banded agates from this region are prized
-                  for their natural beauty and geological significance.
+                  {t('fromMinesPara2', language)}
                 </p>
               </motion.div>
 
@@ -94,18 +92,13 @@ export default function AboutPage() {
                 className="lg:order-2"
               >
                 <h2 className="font-serif text-4xl text-text-primary mb-6">
-                  A Family Tradition
+                  {t('familyTraditionTitle', language)}
                 </h2>
                 <p className="text-lg text-text-secondary leading-relaxed mb-4">
-                  Barrio Amethysts is a family-owned business with deep roots in
-                  Uruguay's gemstone industry. Our expertise in selecting and
-                  presenting the finest specimens has been passed down through
-                  generations.
+                  {t('familyTraditionPara1', language)}
                 </p>
                 <p className="text-lg text-text-secondary leading-relaxed">
-                  Every piece in our collection is handpicked with the same care
-                  and attention to quality that has defined our family for decades.
-                  We take pride in sharing these natural wonders with the world.
+                  {t('familyTraditionPara2', language)}
                 </p>
               </motion.div>
             </div>
@@ -122,19 +115,16 @@ export default function AboutPage() {
               transition={{ duration: 0.8 }}
             >
               <h2 className="font-serif text-4xl md:text-5xl text-text-primary mb-6">
-                Expanding to Dubai
+                {t('expandingDubaiTitle', language)}
               </h2>
               <p className="text-lg text-text-secondary leading-relaxed mb-6">
-                We are thrilled to bring our collection to Dubai, one of the world's
-                premier destinations for luxury and fine craftsmanship. This expansion
-                allows us to share the beauty of Uruguayan gemstones with a new audience.
+                {t('expandingDubaiPara1', language)}
               </p>
               <p className="text-lg text-text-secondary leading-relaxed mb-12">
-                Our commitment to quality, authenticity, and exceptional service
-                remains unchanged as we establish our presence in the Middle East.
+                {t('expandingDubaiPara2', language)}
               </p>
               <Link href="/contact" className="btn-primary inline-block">
-                Visit Our Dubai Location
+                {t('visitDubaiLocation', language)}
               </Link>
             </motion.div>
           </div>
@@ -151,33 +141,30 @@ export default function AboutPage() {
               className="text-center mb-16"
             >
               <h2 className="font-serif text-4xl text-text-primary mb-6">
-                Our Commitment
+                {t('ourCommitmentTitle', language)}
               </h2>
               <p className="text-lg text-text-secondary leading-relaxed">
-                Every gemstone we offer meets our exacting standards for quality and beauty
+                {t('ourCommitmentSubtitle', language)}
               </p>
             </motion.div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
               {[
                 {
-                  title: 'Authenticity',
-                  description:
-                    'Every piece is genuinely sourced from the mines of Artigas, Uruguay, with complete traceability.',
+                  titleKey: 'authenticityTitle',
+                  descKey: 'authenticityDesc',
                 },
                 {
-                  title: 'Quality',
-                  description:
-                    'We select only the finest specimens, ensuring exceptional color, clarity, and natural formation.',
+                  titleKey: 'qualityTitle',
+                  descKey: 'qualityDesc',
                 },
                 {
-                  title: 'Expertise',
-                  description:
-                    'Generations of experience guide our selection process, guaranteeing museum-quality pieces.',
+                  titleKey: 'expertiseTitle',
+                  descKey: 'expertiseDesc',
                 },
               ].map((item, index) => (
                 <motion.div
-                  key={item.title}
+                  key={item.titleKey}
                   initial={{ opacity: 0, y: 20 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   viewport={{ once: true }}
@@ -185,10 +172,10 @@ export default function AboutPage() {
                   className="text-center"
                 >
                   <h3 className="font-serif text-2xl text-text-primary mb-4">
-                    {item.title}
+                    {t(item.titleKey, language)}
                   </h3>
                   <p className="text-text-secondary leading-relaxed">
-                    {item.description}
+                    {t(item.descKey, language)}
                   </p>
                 </motion.div>
               ))}

@@ -4,8 +4,11 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { t } from '@/lib/translations';
 
 export default function ContactPage() {
+  const { language } = useLanguage();
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -54,10 +57,10 @@ export default function ContactPage() {
               transition={{ duration: 0.8 }}
             >
               <h1 className="font-serif text-5xl md:text-7xl text-text-primary mb-6">
-                Get in Touch
+                {t('contactPageTitle', language)}
               </h1>
               <p className="text-lg md:text-xl text-text-secondary">
-                We'd love to hear from you about our collection
+                {t('contactPageSubtitle', language)}
               </p>
             </motion.div>
           </div>
@@ -75,16 +78,16 @@ export default function ContactPage() {
                 transition={{ duration: 0.8 }}
               >
                 <h2 className="font-serif text-3xl text-text-primary mb-6">
-                  Send us a Message
+                  {t('sendMessage', language)}
                 </h2>
 
                 {isSubmitted ? (
                   <div className="bg-green-50 border border-green-200 rounded-lg p-6 text-center">
                     <p className="text-green-800 font-medium">
-                      Thank you for your message!
+                      {t('thankYouMessage', language)}
                     </p>
                     <p className="text-green-600 text-sm mt-2">
-                      We'll get back to you soon.
+                      {t('getBackSoon', language)}
                     </p>
                   </div>
                 ) : (
@@ -94,7 +97,7 @@ export default function ContactPage() {
                         htmlFor="name"
                         className="block text-sm font-medium text-text-secondary mb-2"
                       >
-                        Name
+                        {t('nameLabel', language)}
                       </label>
                       <input
                         type="text"
@@ -112,7 +115,7 @@ export default function ContactPage() {
                         htmlFor="email"
                         className="block text-sm font-medium text-text-secondary mb-2"
                       >
-                        Email
+                        {t('emailLabel', language)}
                       </label>
                       <input
                         type="email"
@@ -130,7 +133,7 @@ export default function ContactPage() {
                         htmlFor="message"
                         className="block text-sm font-medium text-text-secondary mb-2"
                       >
-                        Message
+                        {t('messageLabel', language)}
                       </label>
                       <textarea
                         id="message"
@@ -144,7 +147,7 @@ export default function ContactPage() {
                     </div>
 
                     <button type="submit" className="btn-primary w-full">
-                      Send Message
+                      {t('sendMessageButton', language)}
                     </button>
                   </form>
                 )}
@@ -158,14 +161,14 @@ export default function ContactPage() {
                 transition={{ duration: 0.8 }}
               >
                 <h2 className="font-serif text-3xl text-text-primary mb-6">
-                  Contact Information
+                  {t('contactInfoTitle', language)}
                 </h2>
 
                 <div className="space-y-8">
                   {/* WhatsApp */}
                   <div>
                     <h3 className="text-sm uppercase tracking-wider text-text-light mb-3">
-                      WhatsApp
+                      {t('whatsappLabel', language)}
                     </h3>
                     <a
                       href={`https://wa.me/${whatsappNumber.replace(/[^0-9]/g, '')}`}
@@ -189,7 +192,7 @@ export default function ContactPage() {
                   {/* Email */}
                   <div>
                     <h3 className="text-sm uppercase tracking-wider text-text-light mb-3">
-                      Email
+                      {t('emailLabel', language)}
                     </h3>
                     <a
                       href={`mailto:${email}`}
@@ -215,7 +218,7 @@ export default function ContactPage() {
                   {/* Instagram */}
                   <div>
                     <h3 className="text-sm uppercase tracking-wider text-text-light mb-3">
-                      Instagram
+                      {t('instagramLabel', language)}
                     </h3>
                     <a
                       href={`https://instagram.com/${instagramHandle.replace('@', '')}`}
@@ -239,7 +242,7 @@ export default function ContactPage() {
                   {/* Location */}
                   <div>
                     <h3 className="text-sm uppercase tracking-wider text-text-light mb-3">
-                      Location
+                      {t('locationLabel', language)}
                     </h3>
                     <div className="flex items-start gap-3">
                       <div className="w-12 h-12 bg-gold-100 rounded-full flex items-center justify-center flex-shrink-0">
@@ -257,9 +260,9 @@ export default function ContactPage() {
                         </svg>
                       </div>
                       <div className="text-lg text-text-primary">
-                        <p className="font-medium">Dubai, UAE</p>
+                        <p className="font-medium">{t('dubaiUAE', language)}</p>
                         <p className="text-sm text-text-secondary mt-1">
-                          Visit by appointment
+                          {t('visitByAppointment', language)}
                         </p>
                       </div>
                     </div>
