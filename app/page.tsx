@@ -7,8 +7,12 @@ import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 import productsData from '@/data/products.json';
 import { Product } from '@/types/product';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { t } from '@/lib/translations';
 
 export default function Home() {
+  const { language } = useLanguage();
+
   // Get Grand Collection featured pieces
   const grandProducts = (productsData.products as Product[])
     .filter(p => p.collection === 'grand')
@@ -46,7 +50,7 @@ export default function Home() {
             className="font-serif text-5xl md:text-7xl lg:text-8xl font-light tracking-tight mb-6 text-text-primary"
           >
             BARRIOS AMETHYSTS
-            <span className="block text-primary-600 mt-2">CATALOGUE</span>
+            <span className="block text-primary-600 mt-2">{t('catalogTitle', language)}</span>
           </motion.h1>
 
           <motion.p
@@ -55,7 +59,7 @@ export default function Home() {
             transition={{ duration: 1, ease: 'easeOut', delay: 0.5 }}
             className="text-xl md:text-2xl text-text-secondary font-light tracking-wide mb-3 max-w-3xl mx-auto"
           >
-            Museum-Quality Uruguayan Gemstones
+            {t('museumQuality', language)}
           </motion.p>
 
           <motion.p
@@ -64,7 +68,7 @@ export default function Home() {
             transition={{ duration: 1, ease: 'easeOut', delay: 0.7 }}
             className="text-base md:text-lg text-text-light mb-12 max-w-2xl mx-auto leading-relaxed"
           >
-            Your direct source to Uruguayan amethysts. Family business dedicated to extracting, processing and exporting amethysts, agates and citrines from Artigas mines since 1992
+            {t('directSource', language)}
           </motion.p>
 
           <motion.div
@@ -77,14 +81,14 @@ export default function Home() {
               href="/catalog"
               className="group relative inline-flex items-center justify-center px-8 py-4 bg-primary-600 text-white rounded-none hover:bg-primary-700 transition-all duration-300 text-sm tracking-wider uppercase font-medium min-w-[200px]"
             >
-              <span className="relative z-10">Explore Collection</span>
+              <span className="relative z-10">{t('exploreCollection', language)}</span>
               <div className="absolute inset-0 bg-gradient-to-r from-primary-700 to-primary-800 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </Link>
             <Link
               href="/about"
               className="inline-flex items-center justify-center px-8 py-4 border-2 border-text-primary text-text-primary rounded-none hover:bg-text-primary hover:text-white transition-all duration-300 text-sm tracking-wider uppercase font-medium min-w-[200px]"
             >
-              Our Story
+              {t('ourStory', language)}
             </Link>
           </motion.div>
 
@@ -97,15 +101,15 @@ export default function Home() {
           >
             <div className="text-center">
               <div className="text-3xl md:text-4xl font-serif font-light text-primary-600 mb-2">30+</div>
-              <div className="text-xs md:text-sm text-text-light uppercase tracking-wider">Years Experience</div>
+              <div className="text-xs md:text-sm text-text-light uppercase tracking-wider">{t('yearsExperience', language)}</div>
             </div>
             <div className="text-center border-x border-border-light">
               <div className="text-3xl md:text-4xl font-serif font-light text-primary-600 mb-2">500+</div>
-              <div className="text-xs md:text-sm text-text-light uppercase tracking-wider">Collectors Worldwide</div>
+              <div className="text-xs md:text-sm text-text-light uppercase tracking-wider">{t('collectorsWorldwide', language)}</div>
             </div>
             <div className="text-center">
               <div className="text-3xl md:text-4xl font-serif font-light text-primary-600 mb-2">100%</div>
-              <div className="text-xs md:text-sm text-text-light uppercase tracking-wider">Direct from Source</div>
+              <div className="text-xs md:text-sm text-text-light uppercase tracking-wider">{t('directFromSource', language)}</div>
             </div>
           </motion.div>
 
