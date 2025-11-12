@@ -15,7 +15,7 @@ export default function AboutPage() {
 
       <main className="pt-20">
         {/* Hero */}
-        <section className="section-spacing bg-gradient-to-b from-white to-gray-50">
+        <section className="section-spacing bg-gradient-to-b from-off-white to-gray-50">
           <div className="container-custom max-w-4xl mx-auto text-center">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
@@ -33,7 +33,7 @@ export default function AboutPage() {
         </section>
 
         {/* About Artigas Section */}
-        <section className="section-spacing bg-white">
+        <section className="section-spacing bg-off-white">
           <div className="container-custom max-w-5xl mx-auto">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
               <motion.div
@@ -109,7 +109,7 @@ export default function AboutPage() {
         </section>
 
         {/* Dubai Expansion Section */}
-        <section className="section-spacing bg-white">
+        <section className="section-spacing bg-off-white">
           <div className="container-custom max-w-4xl mx-auto text-center">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
@@ -134,7 +134,7 @@ export default function AboutPage() {
         </section>
 
         {/* Quality Commitment Section */}
-        <section className="section-spacing bg-gradient-to-b from-purple-50 to-white">
+        <section className="section-spacing bg-gradient-to-b from-purple-50 to-off-white">
           <div className="container-custom max-w-4xl mx-auto">
             <motion.div
               initial={{ opacity: 0, y: 20 }}

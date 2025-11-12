@@ -81,7 +81,7 @@ export default function CatalogPage() {
     <>
       <Navigation />
 
-      <main className="pt-16 bg-white">
+      <main className="pt-16 bg-off-white">
         {/* Filters */}
         <FilterBar
           collections={collections}

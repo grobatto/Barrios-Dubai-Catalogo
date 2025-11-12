@@ -38,7 +38,7 @@ export default function FilterBar({
   };
 
   return (
-    <div className="sticky top-16 z-40 bg-white border-b border-border-light shadow-sm">
+    <div className="sticky top-16 z-40 bg-off-white border-b border-border-light shadow-sm">
       <div className="container-custom py-8">
         {/* Collection Filters */}
         <div>

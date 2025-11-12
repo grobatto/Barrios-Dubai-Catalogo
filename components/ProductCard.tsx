@@ -19,7 +19,7 @@ export default function ProductCard({ product, onClick }: ProductCardProps) {
       whileHover={{ scale: 1.03, y: -4 }}
       transition={{ duration: 0.3, ease: 'easeOut' }}
       onClick={onClick}
-      className={`bg-white rounded-xl shadow-sm hover:shadow-2xl overflow-hidden cursor-pointer group relative ${
+      className={`bg-off-white rounded-xl shadow-sm hover:shadow-2xl overflow-hidden cursor-pointer group relative ${
         isGrandCollection ? 'ring-2 ring-accent-gold ring-opacity-30' : 'hover:ring-2 hover:ring-accent-primary hover:ring-opacity-20'
       }`}
     >

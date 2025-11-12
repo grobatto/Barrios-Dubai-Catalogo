@@ -142,7 +142,7 @@ export default function Home() {
       </section>
 
       {/* Grand Collection Preview */}
-      <section className="py-24 md:py-32 bg-white">
+      <section className="py-24 md:py-32 bg-off-white">
         <div className="container-custom px-4">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -215,7 +215,7 @@ export default function Home() {
       </section>
 
       {/* Why Choose Us */}
-      <section className="py-24 md:py-32 bg-gradient-to-br from-primary-50 to-white">
+      <section className="py-24 md:py-32 bg-gradient-to-br from-primary-50 to-off-white">
         <div className="container-custom px-4">
           <motion.div
             initial={{ opacity: 0, y: 30 }}

@@ -49,7 +49,7 @@ export default function ContactPage() {
 
       <main className="pt-20">
         {/* Hero */}
-        <section className="section-spacing bg-gradient-to-b from-white to-gray-50">
+        <section className="section-spacing bg-gradient-to-b from-off-white to-gray-50">
           <div className="container-custom max-w-4xl mx-auto text-center">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
@@ -67,7 +67,7 @@ export default function ContactPage() {
         </section>
 
         {/* Contact Section */}
-        <section className="section-spacing bg-white">
+        <section className="section-spacing bg-off-white">
           <div className="container-custom max-w-6xl mx-auto">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
               {/* Contact Form */}
